@@ -1,4 +1,4 @@
-# Warwick Folk
+# Warwick Folk Band Folder
 
 ![](https://www.warwicksu.com/asset/Organisation/4113/Warwick%20Folk%20Logo.PNG?thumbnail_width=300&thumbnail_height=300&resize_type=ResizeFitAllFill)
 
