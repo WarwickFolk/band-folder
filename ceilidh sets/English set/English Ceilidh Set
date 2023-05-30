@@ -1,0 +1,445 @@
+X: 1
+%%titleleft
+T: English Ceilidh Dances
+T: :
+T: Circassian Circle:
+T: 1 Snowy Monday
+T: 2 Jenny Pluck Pears
+T: 3 Halfe Hannekin
+T: :
+T: Lucky Seven:
+T: 1 The Month of May
+T: 2 Dribbles of Brandy
+T: 3 The Railway
+T: 4 The Fiery Clock Face
+T: :
+T: Bridge of Athlone:
+T: 1 Morgan Rattler
+T: 2 Horizonto
+T: 3 Bang Up
+T: :
+T: Witch's Reel:
+T: 1 Mount Hills
+T: 2 Nonesuch
+T: 3 Old Morpeth Rant
+T: 4 Morpeth Rant
+T: :
+T: Circle Waltz:
+T: 1 Loweswater
+T: 2 Crummock Water
+T: 3 Buttermere
+T: :
+T: Circle Hornpipe:
+T: 1 Paddy McGinty's Goat
+T: 2 Sportsman's Hornpipe
+T: 3 Gloucester Hornpipe
+T: :
+T: Sir Roger de Coverley:
+T: 1 Sir Roger de Coverley 1
+T: 2 The Peacock Followed the Hen
+T: 3 The Long Room in Scarborough
+T: 4 Sir Roger de Coverley 2
+
+K: A
+
+X: 2
+%%newpage
+%%titleleft
+T: Circassian Circle page 1
+K: A
+
+X: 3
+T: Snowy Monday
+C: Willie Taylor
+C: (2nd part by Katherine Tickell)
+R: Jig
+M: 6/8
+L: 1/8
+K: D
+V: melody
+A|:"D" F>GA D2F|A>dd f>dd|"G" G>AB "D" A>dd|A>gf "A" e2A|
+"D" F>GA D2F|A>dd f>dd|"G" G>AB "A" A>ae|1 "D" f>ed d2A:|2 "D" f>ed d>fg||
+"D" a>fd f>ed|"G" B>GB d>cB|"D" A>BA d>ef|A>af "A" e>fg|
+"D" a>fd f>ed|"G" B>GB d>cB|"D" A>dd "A" c>ae|"D" f>ed d>fg|
+"D" a>fd f>ed|"G" B>GB d>cB|"D" A>BA d>ef|A>af "A" e2A|
+"D" F>GA D2F|A>dd f>dd|"G" G>AB "A" A>ae|"D" f>ed d2||
+V: harmony
+F|:D>EF A,2D|F>AA d2A|D>GG F>AA|A>dA G>FE|
+D>EF A,2D|F>AA d>AA|B>AB c>Bc|1 d>AF D2F:|2 d>AF D2c||
+d>AF A>GF|G>DG B>AG|F>GF A>Bc|d>Ad c3|
+d>AF A>GF|G>DG B>AG|F>AA E>Ac|d>AF D2c|
+d>AF A>GF|G>DG B>AG|F>GF A>Bc|D>AF G>FE|
+D>EF A,2D|F>AA D>AA|B>AB c>Bc|d>AF D2||
+
+X: 4
+%%newpage
+%%titleleft
+T: Circassian Circle page 2
+K: A
+
+X: 5
+T: Jenny Pluck Pears
+C: Traditional
+O: England
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+|:E2B B2A|B3/2c/B A3/2G/F|G2G A3/2B/G|F2E E2D:|
+|:F3/2G/F D2E|E3/2F/E B,2F|G2G A3/2B/G|F2E E2D:|
+E2E F3/2G/A|G3/2F/E D2B,|E2E F3/2G/A|G3/2F/E DFA|
+B2B AGF|G3/2F/E D2B,|^C3/2D/E D3/2^C/D|E2E E3||
+
+X: 6
+T: Halfe Hannekin
+C: Traditional
+O: England
+R: jig
+M: 6/8
+L: 1/8
+K: G
+B>cd d2c|B>cB A2G|B>cd d>cB|A>GF G3|
+B>cd d2c|B>cB A2G|B>cd d>cB|A>GF G3||
+B3 c3|B3 A2G|B>AB c2B|A>GF G3|
+B>AB c>Bc|B>AB A2G|B>AB c2B|A>GF G3||
+
+X: 7
+%%newpage
+%%titleleft
+T: Lucky Seven page 1
+K: A
+
+X: 8
+T: The Month of May
+C: Traditional
+O: England
+M: 6/8
+L: 1/8
+R: jig
+K: Gmaj
+D|"G" G2G GFG|"D" A2B "C" c2d|e2e "G" dBG|"Em" GFG "D" AFD| 
+"G" G2G GFG|"D" A2B c2d|"C" efg "G" dcB|"D" AGG "G" G2:|
+|:B|"D" A2A A2B|cdc "G" B2d|g2d g2d|BAG d3| 
+"D" A2A A2A|cdc "G" Bcd|"C" efg "G" dcB|"D" AGG "G" G2:|
+
+X: 9
+T: Dribbles Of Brandy
+C: Traditional
+O: England
+R: jig
+M: 6/8
+L: 1/8
+K: Emin
+"Em" EGE G2A|B2e "G" dBG|"D" A2B "C" cBA|"Bm" BAG FED|
+"Em" EGE G2A|B2e "G" dBG|"D" A2B "C" cBA|"Em" BGE E3:|
+"Em" e2f g2e|"D" fag fed|"Em" e2f g2e|"Bm" fed "Em" e3|
+"Em" e2f g2e|"D" fag fed|"Em" e2B "C" cBA|"Em" BGE E3:|
+
+X: 10
+%%newpage
+%%titleleft
+T: Lucky Seven page 2
+K: A
+
+X: 11
+T: The Railway
+C: Traditional
+O: England
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:D|"G" G2G GBd|g2d d2d|"Am" e2d c2B|"D7" ABG FED|
+"G" G2G GBd|g2d d2d|"C" edc "G" BAG|"D7" A3 "G" G2:|
+|:d|"G" b2b b2a|g2g g2d|"C" e2d efg|"D" a2g fed|
+"G" b2b b2a|g2g g2d|"C" efg "D" agf|"G" g3 g2:|
+
+X: 12
+T: The Fiery Clock Face
+C: Traditional
+O: England
+R: jig
+M: 6/8
+L: 1/8
+K: Gmaj
+|:d|"G" g2g G2A|B2c d2e|"F" =f2=f A2B|c2d e2f|
+"G" g2g G2A|B2c d2e|"C" efg "D7" a2f|"G" g3 g2:|
+|:A|"G" B2B GAB|"Am" c2B A2G|"D7" F2E D2E|F2G A2^A|
+"G" B2B GAB|"Am" c2B A2G|"D7" FED E2F|"G" G3 G2:|
+
+X: 13
+%%newpage
+%%titleleft
+T: Bridge of Athlone page 1
+K: A
+
+X: 14
+%%scale 0.7
+T: Morgan Rattler
+C: Traditional
+O: British Isles
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+d|:"D" AGF EFG|FEF D2d|AGF EFG|"G" B2A "A" Bcd|
+"D" AGF EFG|FEF D2A|"G" def edc|"A" B2A Bcd:|
+|:"Bm" d2e fdB|"A" c2d ecA|"G" d2e fdB|"G" g2e "A" fga|
+"Bm" d2e fdB|"A" c2d ecA|"G" def ecA|"A" B2A Bcd:|
+|:"D" D2d dcd|"Em" E2e ede|"D/F#" D2d dcd|"G" B2A "A" Bcd|
+"D" D2d dcd|"Em" E2e efg|"A" agf edc|B2A Bcd:|
+
+X: 15
+%%scale 0.7
+T: Horizonto
+C: Paul James
+R: jig
+M: 6/8
+L: 1/8
+K: Am
+|:"Am" efe dec|dBc ABG|E2A ABc|"G" BAB GAB|
+"F" c2c cdc|"G" BAB GAB|"Am" cBA "G" BAG|"Am" A3 A3:|
+|:"F" [FA]2[FA] ABc|[FA]2[FA] ABc|"Am" [EA]2[EA] ABc|[EA]2[EA] ABc|"F" [FA]2[FA] ABc| 
+[FA]2[FA] ABc|1 "C" efe dec|"G" dBc ABG:|2 "D" [^FA]2[FA] ABc|"D7" [^FA]2[FA] ABc||
+"F" f2 e2 dc|"G" B3 Bcd|"C" e2 d2 cB|"F" A3 ABc|"G" d2 c2 BA|"E" ^G3 GAB|"F" cBc "G" dcd|"E" e3 e3|
+"F" f2 g2 f2|"G" B3 Bcd|"C" e2 f2 e2|"F" A3 ABc|"G" d2 c2 BA|"E" ^G3 GAB|"F" cBA "G" BAG|"Am" A3 A2||
+
+X: 16
+%%newpage
+%%titleleft
+T: Bridge of Athlone page 2
+K: A
+
+X: 17
+%%scale 0.7
+T: Bang Up
+C: Traditional
+O: England
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+|:A|"D" d2d f2f|a2a f2d|"Em" g2e "D" f2d|"A" cde ABc|
+"D" d2d f2f|a2a f2d|"Em" g2e "D" f2d|"A" cBA "D" d2:|
+|:A|"D" F2A "A" E2A|"D" F2A d2c|"G" B2d "D" A2d|"Em" G2e "A" cBA|
+"D" F2A "A" E2A|"D" F2A d2c|"G" Bcd "A" ABc|"D" d3 d2:|
+|:A|"D" f2e d2c|B2A G2F|"Em" G2A B2e|"A" dcB A2A|
+"D" f2e d2c|B2A G2F|"G" G2B "D" A2F|"A" GFE "D" D2:|
+
+X: 18
+%%newpage
+%%titleleft
+T: Witch's Reel page 1
+K: A
+
+X: 19
+T: Mount Hills
+C: Traditional
+O: England
+R: polka
+M: 2/4
+L: 1/8
+K: Gmaj
+|:D|Gd BB|A/B/A/G/ FD|Gd BB|dc/B/ A2|
+Gd BB|A/B/A/G/ FD|GF/E/ cB/A/|F2 G:|
+z|:F>G AB|cB AG/F/|GE cd|B2 A2|
+d/e/d/c/ BB|GG EB|cB/A/ G/F/G/A/|A2 G2:|
+
+X: 20
+T: Nonesuch
+C: Traditional
+O: England
+R: polka
+M: 2/4
+L: 1/8
+K: Dmin
+a|"Dm" af ga|fe/f/ da|af ga|f2 da|
+"F" af ga|"Dm" fe/f/ da|"F" af ga|"Dm" f2 d||
+|:e|"C" ec de|"Dm" fe/f/ de|"Am" ec de|"Dm" f2 d:|
+K: Dmaj
+|:a|"D" af "A7" ga|"D" fe/f/ da|af "A7" ga|"D" f2 d:|
+e|"A7" ec de|"D" fe/f/ de|"A7" ec de|"D" f2 de|
+"A7" ec de|"D" fe/f/ de|"Em" ec "A7" de|"D" f2 d||
+
+X: 21
+%%newpage
+%%titleleft
+T: Witch's Reel page 2
+T: Double speed!
+K: A
+
+X: 22
+T: Old Morpeth Rant
+C: Traditional
+O: England
+R: reel
+M: 4/4
+L: 1/8
+K: Gmaj
+|:BA|"G" G2DB, G,B,DB,|"C" G,CEC "G" G,B,DB,|G2AB "Am" cBAG|"D" F2A2 AcBA|
+"G" G2DB, G,B,DB,|"C" G,CEC "G" G,B,DB,|G2AB "D" cBAF|A2 "G" G2 G2:|
+|:Bd|"G" gfed B2GB|"Am" cBAG "D" F2D2|"C" ECEG cBAG|"D" F2D2 D3D|
+"C" ECEG cBAG|"D" FDFA dcBA|"G" Ggfg "D" ecAF|A2 "G" G2 G2:|
+
+X: 23
+T: Morpeth Rant
+C: Traditional
+O: England
+R: reel
+M: 4/4
+L: 1/8
+K: Dmaj
+|:(3ABc|"D" d2AG FDFA|"G" BGBd "A" cAce|"D" f2fd gfed|"A" c2e2 egfe|
+"D" d2AG FDFA|"G" BGBd "A" cAce|"D" f2fd "G" gfed|"D" A2d2 d2:|
+|:A2|"D" dfaf dfaf|"Em" gfef g2ef|"A7" gfed cdeg|"D" fefg f2f2|
+"Bm" dfaf dfaf|"Em" gfef g2ef|"A7" gfed cdeg|"D" f2d2 d2:|
+
+X: 24
+%%newpage
+%%titleleft
+T: Circle Waltz
+K: A
+
+X: 25
+%%scale 0.65
+T: Loweswater
+C: Chris Dewhurst
+R: waltz
+M: 3/4
+L: 1/4
+K: G
+D|"G" G>F G|"D" A D A|"G" B>A G|"C" c d e|"G" d>B A|"Em" G A B|"Am" A G E|"D" D2 D| 
+"G" G>F G|"D" A D A|"G" B>A G|"C" c d e|"G" d>BA|"C" E>Gc |"G" B>c "D" A|"G" G2||
+G/G/|"C" c>d e|"G" d B G|"C" A G E|"G" D2 B|"C" c>d e|"G" d B A|"A7" G>FG|"D" A2 D|
+"G" G>F G|"D" A D A|"G" B>A G|"C" c d e|"G" d>BA|"C" E>Gc |"G" B>c "D" A|"G" G2||
+
+X: 26
+%%scale 0.65
+T: Crummock Water
+C: Chris Dewhurst
+R: waltz
+M: 3/4
+L: 1/4
+K: Cmaj
+G|"C" e>d c|"E7" B c d|"F" c>B A|"C" G E "G" D|"Am" C>C C|c d e|"D7" e d>A|"G" d2 G|
+"C" e>d c|"E7" B c d|"F" c>B A|"C" G E "G" D|"Am" C>C C|c d e|"D7" d A "G7" B|"C" c2||
+c/d/|"E" e>e e|d c B|"Am" B A>E|A2 B/c/|"D7" d>dd|c B A|"G" G G>A|B2 G|
+"C" e>d c|"E7" B c d|"F" c>B A|"C" G E "G" D|"Am" C>C C|c d e|"D7" d A "G7" B|"C" c2||
+
+X: 27
+%%scale 0.65
+T: Buttermere
+C: Chris Dewhurst
+R: waltz
+M: 3/4
+L: 1/4
+K: Am
+C/D/|"Am" E>E E|"Dm" F E D|"Am" E>A B|c A A|"Dm" d>c B|"Am" B/c/ e A|"B7" c B>^F|"E" B2 C/D/| 
+"Am" E>E E|"Dm" F E D|"Am" E>A B|c A A|"Dm" d>c B|"Am" B/c/ e A|"E7" c B>A|"Am" A2||
+c/d/|"A7" e>e e|"Dm" f d c|"G" B>c d|"C" e c B|"F" A>B c|"Dm" d c B|"Am" A>BA|"E7" E2 C/D/| 
+"Am" E>E E|"Dm" F E D|"Am" E>A B|c A A|"Dm" d>c B|"Am" B/c/ e A|"E7" c B>A|"Am" A2||
+
+X: 28
+%%newpage
+%%titleleft
+T: Circle Hornpipe
+K: A
+
+X: 29
+%%scale 0.7
+T: Paddy McGinty's Goat
+R: barndance
+M: 4/4
+L: 1/8
+K: Gmaj
+|:d>c|"G" B2B>A G2G>A|B>AB>c d2d>B|"Am" c>dc>B A>AA>B|c>Bc>d "D7" e2d>c|
+"G" B2B>A G2G>A|B>AB>c d2d>B|"Am" c>cB>c "D" A>Ad>c|"G" (3BGG "C" G>G "G" G2:|
+|:B>d|"G" g2g>g d2d>d|g2g>g d2d>e|"D" f>gf>e d>^cd>e|"A7" f>gf>e "D" d2d2|
+"C" g>gg>e "G" d>dg>d|"D7" c>Bc>d "G" B2-B>B|"Am" c>cB>c "D7" A>Ad>c|"C" (3BGG "G" G>G G2:|
+
+X: 30
+%%scale 0.7
+T: The Sportsman's
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Ador
+|:A>B|"Am" c2c>A "G" B2B>A|G>AB>c d>BG>B|"Am" c2c>A "G" B2B>A|"Am" E2A2 A2A>B|
+"Am" c2c>A "G" B2B>A|G>AB>c d>BG>B|"C" g>fg>e "G" d>BA>G|"Am"E2A2 A2:|
+|:E2|"Am" A>Bc>d e>fg>e|"D" a>fd>f "E7" e>dc>B|"Am" A>Bc>d e>fg>e|"D" a>fd>f "E7" e2 (3efg|
+"Am" a2a>f "G" g2g>e|"C" c2c>e "G" d>BG>B|"F" c>Bc>A "G" B>AB>G|"Am" E2A2 A2:|
+
+X: 31
+%%scale 0.7
+T: Gloucester Hornpipe
+C: Traditional
+O: England
+R: hornpipe
+M: 4/4
+L: 1/8
+K: Gmaj
+|:(3DEF|"G" G2g2g2 d>B|"C" c>Bc>d e>fg>e|"G" d>BG>B "(Am)" e>dc>B|"D" A>Bc>A G>FE>D|
+"G" G2g2g2 d>B|"C" c>Bc>d e>f (3gfe|"G" d>BG>B "C" e>c "D" A>F|"G" G2 G2 G2:|
+|:(3FGA|"G" B3A B>cd>B|"C" c>Bc>d e>fg>e|"G" d>BG>B "(Am)" e>dc>B|"D" A>Bc>A G>FE>D|
+"G" B2 B>A B>cd>B|"C" c>Bc>d e>f (3gfe|"G" d>BG>B "C" e>c "D" A>F|"G" G2 G2 G2:|
+
+X: 32
+%%newpage
+%%titleleft
+T: Sir Roger de Coverley page 1
+K: A
+
+X: 33
+%%scale 0.7
+T: Sir Roger de Coverley 1
+C: Traditional
+O: England
+R: slip jig
+M: 9/8
+L: 1/8
+K: Dmaj
+|:"D" d2d d2B AFD|"Em" B2e efd "A" cBA|"D" d2d d2B ABc|d2d ded "A" cBA:|
+|:"D" AFA "G" BGB "D" AFD|"Em" Bcd efd "A" cBA|"D" AFA "G" BGB "A" cAc|"D" d2d ded "A" cBA:|
+|:"D" agf "A" gfe "D" fed|"A" cde efg gfe|"D" agf "A" gfe "D" fed|d2d ded "A" cBA:|
+
+X: 34
+T: The Peacock Followed the Hen
+C: Traditional
+O: England
+R: slip jig
+M: 9/8
+L: 1/8
+K: Ador
+|:"Am" cde cAA cAA|cde cAA "G" B2G|"Am" cde cAA cAA|"G" Bcd dgd B2G:|
+|:"C" cde gee gee|cde geg "D" f2d|"C" cde gee gee|"G" Bcd dgd B2G:|
+
+X: 35
+%%newpage
+%%titleleft
+T: Sir Roger de Coverley page 2
+K: A
+
+X: 36
+T: The Long Room in Scarborough
+C: Traditional
+O: England
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:"G" G2G GBG Bcd|G2G GBG "D" AFD|"G" G2G GBG Bcd|"C" E2E EFG "D" AFD:|
+|:"G" g2g gag "D" fed|"G" gfg "C" efg "D" afd|"G" g2g gag "D" fed|"C" efg "G" dcB "D" AFD:|
+|:"G" B2B BGB "C" c2d|"G" B2B BGB "D" AFD|"G" B2B BGB "C" c2d|E2E EFG "D" AFD:|
+
+X: 37
+T: Sir Roger de Coverley 2
+C: Traditional
+O: England
+R: slip jig
+M: 9/8
+L: 1/8
+K: Gmaj
+|:"G" G2G G2e dBG|"Am" A2A ABG "D" FED|"G" G2G G2e "D" def|"G" g2G GAG "D" FED:|
+|:"G" dBd "C" ece "G" dBG|"Am" E2A ABG "D" FED|"G" dBd "C" ece "D" def|"G" g2G GAG "D" FED:|
+|:"G" gag "D" f2e "G" dBG|"Am" E2A ABG "D" FED|"G" gag "D" f2e def|"G" g2G GAG "D" FED:|
+|:"G" dcB "D" cBA "G" BAG|"Am" E2A ABG "D" FED|"G" dcB "D" cBA Bcd|"G" g2G GAG "D" FED:|
