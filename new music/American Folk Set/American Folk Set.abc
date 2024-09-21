@@ -1,0 +1,134 @@
+%abc-2.1
+
+X:1
+T:Cluck Old Hen
+M:2/4
+L:1/8
+K:Eb clef=treble
+|: Gc B3/B/ | Gc F2 | Gc B3/B/ | G/-F/E/-=E/  C2:|
+|: CC _E2 | CC B,2| CC/C/ EF| G/-F/E/-=E/ C2 :| 
+W:
+W:My old hen was a good old hen
+W:She laid eggs for the railroad men
+W:Sometimes eight and sometimes ten
+W:She laid eggs for the railroad men
+W: 
+W: Cluck old hen, cluck and sing
+W: Ain't laid an egg since late last spring
+W: Cluck old hen, cluck and squall
+W: Ain't laid an egg since late last fall
+W: 
+W:My old hen was a good old hen
+W:She laid eggs for the railroad men
+W:Sometimes one sometimes two
+W:Sometimes enough for the whole damn crew
+W:
+W:Cluck old hen, cluck when I tell you
+W:Lay more eggs or I'm gonna sell you
+W:Cluck old hen, cluck in the lot
+W:Lay more eggs or you're going in the pot
+
+X:2
+T:Greasy Coat
+M:2/2
+L:1/8
+K:G clef=treble
+AB|: c2 AA GG AA | cA G2 A2 AB | C2 A2 GG AG | EDEG A2 AB | 
+cAGA cAdA | e4- e2 d2 | c2 A2GG AG |1 EDEG A2 AB:|2 EDEG A3 G || 
+ABcd eefe | f g2 g- gAcB | ABcd efge | g a2 a- a2 cB |
+ABcd e2 fe | g2 ag eAdA | c2 AD G2 AG | E A3 A4 :| 
+W:
+W:Lyrics (sung on the first half of the A section)
+W:
+W:I don't drink and I don't smoke, I don't wear no greasy coat
+W:I don't spit and I don't chew, I don't kiss the girls that do
+W:I don't cheat and I don't lie, All you sinners are gonna die
+W:I don't stink and I don't smell, all you sinners can go to hell
+ 
+
+X:3
+T:Oh! Susanna
+M:2/4
+L:1/8
+K:F clef=treble
+F/G/ | Ac cd | cA F3/G/ | AA GF | G3 F/G/ | 
+Ac c3/d/ | cA F3/G/ | AA GG | F3 F/G/ | 
+Ac c3/d/ | cA F3/G/ | AA GF | G3 F/G/ | 
+Ac cd | cA F3/G/ | A/A3/ G3/G/ | F2 z2 | 
+B2 B2 | d d2 d | c c A F | G3 F/G/ |
+ Ac cd | cA FG | AA GG | F3 ||
+W:
+W:Oh, I come from Alabama with my banjo on my knee
+W:I'm going to Louisiana, my true love for to see
+W:It rained all night the day I left, the weather it was dry
+W:The sun so hot, I froze to death, Susanna, don't you cry
+W:
+W:Oh, Susanna, don't you cry for me
+W:For I come from Alabama, with my banjo on my knee
+W:
+W:I had a dream the other night, when everything was still
+W:I thought I saw Susanna, coming down the hill
+W:A buckwheat cake was in her mouth, a tear was in her eye
+W:I said, I'd come from Southern Lands, susanna, don't you cry
+W:
+W:Oh, Susanna, don't you cry for me
+W:For I come from Alabama, with my banjo on my knee
+W:
+W:I soon will be in New Orleans, and then I'll look around
+W:And when I find my darling gal I'll fall upon the ground
+W:But if I don't find her, this man'll surely die
+W:And when I'm dead and buried, Susanna, don't you cry
+W:
+W:Oh, Susanna, don't you cry for me
+W:For I come from Alabama, with my banjo on my knee
+
+X:4
+T:Angeline the Baker
+M:4/4
+L:1/4
+K:D clef=bass octave=-1
+d/2B/2 | "D"A B d3/2 A/2 | "G"B d2 d/2B/2 | "D"A B d/2B/2 A | "Bm"B3 d/2B/2 | 
+"D"A B d3/2 e/2 | f e d3/2 e/2 | "Bm"f e "G"d B | "A"A3 :|
+|: f/2g/2 | "D"a f "G"e d/2e/2 | "A7"f e "D"d f/2g/2 | a f e d | "Bm"B3/2 B/2 B f/2g/2 | 
+"D"a f "G"e d/2e/2 | "A7"f e "Bm"d3/2 e/2 | "Bm"f e "G"d B | "A"A3 z :|
+W:
+W:Angeline the baker, age of 43
+W:Fed her sugar candy, but she still won't marry me
+W:Angeline the baker, Angeline I know
+W:Should have married Angeline, just twenty years ago
+W:
+W:Her father was a miller, his name was Uncle Sam
+W:I never can forget her, no matter where I am
+W:She said couldn't do hard work, because she was not stout
+W:Baked the biscuits every day and poured the coffee out
+W:
+W:Angeline the baker, age of 43
+W:Angeline, I love her so, but she won't marry me
+W:Angeline the baker, Angeline I know
+W:Should have married Angeline, twenty years ago
+W:
+W:I once bought her a brand new dress, it was neither black nor brown
+W:It was the colour of stormy skies, before the rain comes down
+W:Sixteen horses in my team, the leader he was blind
+W:I dreamed that I was dying, and I saw my Angeline
+W:
+W:Angeline the baker, age of 43
+W:The way I always loved her, beats all you've ever seen
+W:Angeline the baker, Angeline I know
+W:Should have married Angeline, twenty years ago
+W:
+W:Angeline is beautiful, Angeline is tall
+W:They say she broke her ankle out a-dancing at the ball
+W:The last time that I saw her, it was at the county fair
+W:Her father ran me almost home and told me to stay there
+W:
+W:Angeline the baker, age of 43
+W:Fed her sugar candy, but she still won't marry me
+W:Angeline the baker, Angeline I know
+W:Should have married Angeline, twenty years ago
+
+X:5
+T:Country Roads
+M:2/4
+L:1/8
+K:Eb clef=treble
