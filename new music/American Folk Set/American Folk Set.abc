@@ -7,7 +7,6 @@ L:1/8
 K:Eb clef=treble
 |: Gc B3/B/ | Gc F2 | Gc B3/B/ | G/-F/E/-=E/  C2:|
 |: CC _E2 | CC B,2| CC/C/ EF| G/-F/E/-=E/ C2 :| 
-W:
 W:My old hen was a good old hen
 W:She laid eggs for the railroad men
 W:Sometimes eight and sometimes ten
@@ -86,7 +85,7 @@ X:4
 T:Angeline the Baker
 M:4/4
 L:1/4
-K:D clef=bass octave=-1
+K:D
 d/2B/2 | "D"A B d3/2 A/2 | "G"B d2 d/2B/2 | "D"A B d/2B/2 A | "Bm"B3 d/2B/2 | 
 "D"A B d3/2 e/2 | f e d3/2 e/2 | "Bm"f e "G"d B | "A"A3 :|
 |: f/2g/2 | "D"a f "G"e d/2e/2 | "A7"f e "D"d f/2g/2 | a f e d | "Bm"B3/2 B/2 B f/2g/2 | 
@@ -128,7 +127,482 @@ W:Angeline the baker, Angeline I know
 W:Should have married Angeline, twenty years ago
 
 X:5
-T:Country Roads
+T:The Ballad of John Henry
+M:4/4
+L:1/8
+K:Ab clef=treble
+EF | A A3 AAFE | A A3- A4 EE | AAAA _A F2 E- | E4 z2 z E | A2 AA AAAA | 
+_cBAF  AAAA | z c cc BAFA | c2 c2 A4 | z c cc BAFA | A6 z2 || 
+W: When John Henry was a little baby,
+W: Sitting on his pappy's knee,
+W: He grabbed a hammer and a little piece of steel,
+W: Said, "This hammer'll be the death of me, Lord, Lord.
+W: This hammer'll be the death of me."
+W: 
+W: Now, the captain he said to John Henry,
+W: I'm gonna bring that steam drill around.
+W: I'm gonna take that steam drill out on the job,
+W: I'm gonna whop that steel on down, Lord, Lord.
+W: Gonna whop that steel on down."
+W: 
+W: John Henry told his captain,
+W: "That a man ain't nothing but a man,
+W: But before I let that steam drill beat me down,
+W: I'll die with my hammer in my hand, Lord, Lord.
+W: I'll die with my hammer in my hand."
+W: 
+W: John Henry said to his shaker,
+W: "Now, shaker, why don't you sing?
+W: 'Cause I'm throwing twelve pounds from my hips on down.
+W: Just listen to that cold steel ring, Lord, Lord.
+W: Just listen to that cold steel ring."
+W: 
+W: The man that invented the steam drill,
+W: He thought he was mighty fine.
+W: But John Henry, he made fourteen feet
+W: While the steam drill only made nine, Lord, Lord.
+W: The steam drill only made nine.
+W: 
+W: John Henry hammered on the mountain
+W: Till his hammer was striking fire.
+W: He drove so hard he broke his poor heart.
+W: Then, he laid down his hammer and he died, Lord, Lord.
+W: Laid down his hammer and he died
+W: .
+W: They took John Henry to the graveyard,
+W: And they buried him in the sand.
+W: And every locomotive comes rolling on by
+W: Says, "Here lies a steel-driving man, Lord, Lord.
+W: Here lies a steel-driving man."
+W: 
+W: Now, some say he was born in Texas,
+W: And some say he was born in Maine.
+W: But I don't give a damn where that poor boy was born.
+W: He was a steel-driving man, Lord, Lord.
+W: He was a steel-driving man
+
+X:6
+T:The Ballad of Casey Jones
+M:4/4
+L:1/8
+Q:1/4=100
+K:C clef=treble
+"C"c c2 c c3/-B/ A3/-G/ | c3/-B/ c3/G/ -G2 G3/G/ | cccc -c3/-B/ A3/-^G/ |"D7" A3/-^G/ A3/B/ -"G7 "B4 | 
+"C" c c2 c- c3/-B/ A3/G/ | c3/B/ c3/G/- G2 E3/F/ | E2 EE G3/A/ G3/F/ | "D7" E3/-C/ "G7"D3/C/ "C"-C2 z G |
+c c2 c c3/-B/ A3/G/ | c3/B/ c3/G/- G2 G2 | cccc-  c3/B/ A3/-^G/ | "D7"A3/-^G/ A3/B/ "G7"B4 | 
+"C"c-ccc c3/B/ A3/G/ | c-Bc-c G2 E3/F/ | G3/-G/ G3/-G/ G3/-A/ G3/F/ | "D7" E3/C/ "G7"D3/C/- "C"C2 z2 |]
+"C" E G2 [EG]-[EG]4 | c3/d/ e3/c/"F" d A3 | "C" E G2 [EG]-[EG]2 G3/G/ | "D7"c3/d/ e3/c/ "G7"d4 | 
+"C" E G2 [EG]-[EG]4 | c3/d/ e3/c/ "F" d3/c/ A3/G/ | "C" E3/G/ G3/G/ G3/A/ G3/F/ | "D7"E3/C/ D3/C/- C2 z2 |]
+W:
+W:Come all you rounders if you wanna hear
+W:the story about a brave engineer
+W:Casey Jones was the roller's name
+W:on a 6-8 wheeler course he won his fame
+W:Caller called Casey bout half past four
+W:he kissed his wife at the station door
+W:He climbed in the cabin
+W:with his orders in his hand
+W:Said this is the trip to the Promised Land
+W:
+W:Casey Jones climbed in the cabin
+W:Casey Jones orders in his hand
+W:Casey Jones leanin' out the window
+W:taking a trip to the Promised Land
+W:
+W:Through South Memphis Yards on a fly
+W:rain been a fallin' and the water was high
+W:Everybody knew by the engine's moan
+W:that the man at the throttle was Casey Jones
+W:Well Jones said fireman now don't you fret
+W:Sam Webb said we ain't a givin' up yet
+W:We're eight hours late with the southbound mail
+W:We'll be on time or we're leavin' the rails
+W:
+W:Casey Jones climbed in the cabin
+W:Casey Jones orders in his hand
+W:Casey Jones leanin' out the window
+W:taking a trip to the Promised Land
+W:
+W:Dead on the rail was a passenger train
+W:blood was a boilin' in Casey's brain
+W:Casey said hey now look out ahead
+W:jump Sam jump or we'll all be dead
+W:With a hand on a whistle and a hand on a brake
+W:north Mississippi was wide awake
+W:I see railroad official said
+W:he's a good engineer to be a laying dead
+W:
+W:Casey Jones climbed in the cabin
+W:Casey Jones orders in his hand
+W:Casey Jones leanin' out the window
+W:taking a trip to the Promised Land
+W:
+W:Headaches and heartaches
+W:and all kinds of pain
+W:all the part of a railroad train
+W:Sweat and toil the good and the grand
+W:part of the life of a railroad man
+W:
+W:Casey Jones climbed in the cabin
+W:Casey Jones orders in his hand
+W:Casey Jones leanin' out the window
+W:taking a trip to the Promised Land | 
+W:
+
+X:7
+T: It's Dark as a Dungeon
+C: Merle Travis
+M:3/4
+L:1/4
+K:C clef=treble 
+E/-D/ | "C"C C C/D/ | "Em"D G G | "F"A c c/-d/ | "G7"d2 c | "C"e e3/ d/ | "Em"c G G/G/ | "F"A c3/ c/ | "C"A/G/- G2 | 
+-G2 E/D/ | "C"C C C/D/ | "Em"E G G | "F"A c c/d/ | "G7"d2 c/c/ | "C"e e3/ d/ | "Em"c G G | "F"A c3/ c/ | 
+"C"A/G/ -G2 | - G2 G/G/ | "G"G d3/ e/ | d B G | "F"c c3/ B/ | "C"G2 G/G/ | "G"F d3/ e/ | d B G/G/ | 
+"F"c c A | "C"G2 E/D/ | "C"C2 C/D/ | "Em"E2 G/G/ | "F"A c c/d/ | "G"d3 | -d2 c/c/ | "C"e e3/ d/ | 
+"Em"c G G | "F"A c3/ c/ | "C"A/G/ - G2 | - G2 z ||
+W: Come and listen you fellers so young and so fine
+W:And seek not your fortune in the dark dreary mines
+W:It will form as a habit and seep in your soul
+W:'Til the stream of your blood is as black as the coal
+W:
+W:It's dark as a dungeon and damp as the dew
+W:Where danger is double and pleasures are few
+W:Where the rain never falls and the sun never shines
+W:It's dark as a dungeon way down in the mines
+
+W:It's a-many a man I've seen in my day
+W:Who live just to labor his whole life away
+W:Like a fiend with his dope and a drunkard his wine
+W:A man will have lust for the lure of the mines
+W:
+W:Where it's dark as a dungeon and damp as the dew
+W:Where the danger is double and the pleasures are few
+W:Where the rain never falls and the sun never shines
+W:It's dark as a dungeon way down in the mines
+W:
+W:I hope when I'm gone and the ages shall roll
+W:My body will blacken and turn into coal
+W:Then I'll look from the door of my heavenly home
+W:And pity the miner a-diggin' my bones
+W:
+W:Where it's dark as a dungeon and damp as the dew
+W:Where the danger is double and the pleasures are few
+W:Where the rain never falls and the sun never shines
+W:It's dark as a dungeon way down in the mines
+
+X:8
+T: This Land is Your Land
+C: Woody Guthrie
+M:4/4
+L:1/8
+K:G clef=treble 
+z GAB| "C"c2 c2 z c/c/ GA | "G"B2 B2 z DGB | "D7"A2 A2 z A/A/ GA | "G"B2 B2 z G/G/ AB |
+ "C"c2 c2 z c/c/ GA |"G" B2 B4 z2 | "D7"A A2 A F3/D/ EF | "G"G4||
+W: This land is your land, and this land is my land
+W:From California to the New York island
+W:From the Redwood Forest to the Gulf Stream waters
+W:This land was made for you and me
+W:
+W:As I went walking that ribbon of highway
+W:And I saw above me that endless skyway
+W:I saw below me that golden valley
+W:This land was made for you and me
+W:
+W:I roamed and rambled, and I've followed my footsteps
+W:To the sparkling sands of her diamond deserts
+W:All around me, a voice was sounding
+W:This land was made for you and me
+W:
+W:There was a big, high wall there that tried to stop me
+W:A sign was painted said "Private Property"
+W:But on the backside, it didn't say nothing
+W:This land was made for you and me
+W:
+W:When the sun come shining, then I was strolling
+W:And the wheat fields waving, and the dust clouds rolling
+W:The voice was chanting as the fog was lifting
+W:This land was made for you and me
+W:
+W:This land is your land, and this land is my land
+W:From California to the New York island
+W:From the Redwood Forest to the Gulf Stream waters
+W:This land was made for you and me
+
+X:9
+T: Pig in a Pen
+M:4/4
+L:1/8
+K:G clef=treble 
+"G"B2 BB d3 d | B2 BB A-  G2 z | B3 B c2 d2 | "C" e4- g4 | 
+"G" g2 g2 g2 dd | eedd d3 G | "D"d2 d2 g B3 | A2 z2 z4 || 
+|"8 Bars for Solos :)" "G"z4 z4 | z4 z4 | z4 z4 | "C"z4 z4 | 
+"C7"z4 z4 | "G"z4 z4 | "D"z4 z4 | "G"z4 z4 |]
+W: I got a pig at home in a pen corn to feed 'im on
+W:All I need is a pretty little girl to feed 'im when I'm gone.
+W: 
+W:Goin' on the mountain to sow a little cane
+W:Raise a barrel of Sorghum sweet lil' Liza Jane.
+W:
+W:Black cloud's a-risin' surest sign of rain
+W:Get the old grey bonnet on Little Liza Jane.
+W:
+W:Yonder comes that gal of mine how you think I know
+W:Can tell by that Gingham gown hangin' down so low.
+W:
+W:Bake them biscuits baby bake 'em good n' brown
+W:When you get them biscuits baked we're Alabama bound.
+W:
+W:When she sees me comin' she wrings her hands and cries
+W:Yonder comes the sweetest boy that ever lived or died.
+W:
+W:Now when she sees me leavin'she wrings her hands and cries
+W:Yonder goes the meanest boy that ever lived or died.
+
+X:10
+T: Pretty Polly
 M:2/4
 L:1/8
-K:Eb clef=treble
+K:G clef=treble 
+E| E3/E/ EG | E-D B,D | E2 EG | E4 |
+- E3 B | B3/B/ Bd | B2 AG | B2 BA |
+ B3 B | B2 AG | E2 DE | G2 AG | E4- | E3 ||
+W:Oh I used to be a rambler, I stayed around in town
+W:I used to be a rambler, I stayed around in town
+W:I courted pretty Polly, such beauty never been found
+W:
+W:Pretty Polly, pretty Polly, oh yonder she stands
+W:Pretty Polly, pretty Polly, oh yonder she stands
+W:With rings on her fingers and lily-white hands
+W:
+W:Pretty Polly, pretty Polly, come take a walk with me
+W:Pretty Polly, pretty Polly, come take a walk with me
+W:Oh when we get married some pleasure to see
+W:
+W:He led her over hills and valleys so deep
+W:He led her over hills and valleys so deep
+W:At last pretty Polly, she began to weep
+W:
+W:Says "Oh Willie, oh Willie, I'm 'fraid of your way
+W:Oh Willie, oh Willie, I'm afraid of your way
+W:You're minded to ramble and lead me astray"
+W:
+W:Pretty Polly, pretty Polly, you guessin' about right
+W:Pretty Polly, pretty Polly, you guessin' about right
+W:I dug on your grave two-thirds of last night
+W:
+W:They went on a piece farther and what did she spy?
+W:She went on a piece farther and what did she spy?
+W:A new dug grave and a spade lying by
+W:
+W:She threw her arms around him and began for to weep
+W:She threw her arms around him and began for to weep
+W:At last pretty Polly, soon fell asleep
+W:
+X:11
+T: Wreck of the Old '97
+M:4/4
+L:1/4
+K:C clef=treble 
+"C"E- E | G G2 A | "C7" E-C D C | F F F F | "F"A c "F#dim" c A | G G A A | "D7"d3/ d/ c2 | B4- | 
+"G7"B2 A G | "C"c2 c c | "C7"c2 C C | F2 F3/ F/ | "F"A c c A | "C" G A G G | "D7" E E D2 | C4- | C z |
+W:
+W:They gave him his orders at Monroe, Virginia
+W:They said, "Steve you're way behind time
+W:This is not '38, this is old '97
+W:Put her into Spencer on time"
+W:
+W:Then he turned around and said to his big greasy fireman
+W:"Hey, shovel on a little more coal
+W:And when we cross that White Oak Mountain
+W:Watch old '97 roll"
+W:
+W:[BREAK FOR SOLOS]
+W:
+W:It's a mighty rough road from Lynchburg to Danville
+W:In a line on a three mile grade
+W:It was on that grade that he lost his air brakes
+W:You see what a jump he made
+W:
+W:He was goin' down the grade makin' 90 miles an hour
+W:His whistle broke into a scream
+W:He was found in the wreck with his hand on the throttle
+W:Scalded to death by the steam
+W:
+W:[BREAK FOR SOLOS]
+W:
+W:Well now, all you ladies, you better take a warnin'
+W:From this time on and learn
+W:Never speak harsh words to your true lover husband
+W:He may leave you and never return
+W:
+X:12
+T: Goodnight Irene
+M:3/4
+L:1/4
+K:D clef=treble 
+"D"D3 | "E"E2 D | "A"C2 B, | A,3 | "Em"E3 | "A"F2 E | "D"D3 | "A" z z D | 
+"D"F2 F | "D7"E2 D | "G"E2 D | "E" C2 B, | "A"A, E2 | "A7" F2 E | "D"D3 ||
+"A" zz A, | "D" D D D | "E" E E D | "A"C E2 | z3 | "Em" E E E | "A"F F E | "D"D3 | 
+"A"zz D | "D" F F F | "D7" F E D | "G" E/D/ B,2 | "E" z z/ B,/ B,/B,/ | "A"A, A, D/D/ | "A7" F2 E | "D" D3 |]
+W:
+W:Irene, goodnight
+W:Irene, goodnight
+W:Goodnight, Irene
+W:Goodnight, Irene
+W:I'll see you in my dreams
+W:
+W:Last Saturday night I got married
+W:Me and my wife settled down
+W:Now, me and my wife are parted
+W:I'm gonna take another stroll downtown
+W:
+W:Irene, goodnight
+W:Irene, goodnight
+W:Goodnight, Irene
+W:Goodnight, Irene
+W:I'll see you in my dreams
+W:
+W:Sometimes I live in the country
+W:Sometimes I live in town
+W:Sometimes I take a great notion
+W:To jump into the river and drown
+W:
+W:Irene, goodnight
+W:Irene, goodnight
+W:Goodnight, Irene
+W:Goodnight, Irene
+W:I'll see you in my dreams
+W:
+W:Stop ramblin', stop your gamblin'
+W:Stop staying out late at night
+W:Go home to your wife and family
+W:Stay there by your fireside, bright
+W:
+W:Irene, goodnight
+W:Irene, goodnight
+W:Goodnight, Irene
+W:Goodnight, Irene
+W:I'll see you in my dreams
+W:
+X:13
+T: Yankee Doodle
+M:4/4
+L:1/4
+K:F clef=treble 
+"F"F F G A | F A "C"G C | "F"F F G A | F2 "C"E2 | 
+"F" F F G A | "Bb" B A G F | "C"E C D E | "F" F2 F2 ||
+"Bb" D3/ E/D C | D E F2 | "F" C3/ D/ C B, | A,2 C2 | 
+"Bb" D3/ E/ D C | D E F D | "C"C F E G | "F"F2 F z |]
+W:
+W:Yankee Doodle went to town
+W:A-riding on a pony,
+W:Stuck a feather in his cap
+W:And called it macaroni'.
+W:
+W:[Chorus]
+W:Yankee Doodle keep it up,
+W:Yankee Doodle dandy,
+W:Mind the music and the step,
+W:And with the girls be handy.
+W:
+W:Fath'r and I went down to camp,
+W:Along with Captain Gooding,
+W:And there we saw the men and boys
+W:As thick as hasty pudding.
+W:
+W:[Chorus]
+W:
+W:And there was Cap'n Washington,
+W:Upon a slappin’ stallion
+W:Givin’ orders to his men
+W:I guess there was a million
+W:
+W:[Chorus]
+W:
+W:The flaming ribbons in his hat,
+W:They looked so tearing fine, ah,
+W:I wanted dreadfully to get
+W:To give to my Jemima.
+W:
+W:[Chorus]
+W:
+W:And there I see a swamping gun
+W:Large as a log of maple,
+W:Upon a deuced little cart,
+W:A load for father's cattle.
+W:
+W:[Chorus]
+W:
+W:And every time they shoot it off,
+W:It takes a horn of powder,
+W:and makes a noise like father's gun,
+W:Only a nation louder.
+W:
+W:[Chorus]
+
+X:14
+T: Where Did You Sleep Last Night
+M:3/4
+L:1/4
+K:E clef=treble
+=G| "E" E2 E | B2 B | "A"A2 E | "G"=G2 G/A/ | "B7" B2 B/A/ | =G2 G | "E"E2 z | 
+z2 =G/G/ | "E" E2 E/E/ | B2 A/B/ | "A" A3/ A/ A/B/ | "G" =G2 G/A/ | "B7" B2- B/=G/ | E =G G | "E" E2 z |]
+W:
+W:My girl, my girl, don't lie to me
+W:Tell me where did you sleep last night
+W:In the pines, in the pines
+W:Where the sun don't ever shine
+W:I would shiver the whole night through
+W:
+W:My girl, my girl, where will you go
+W:I'm going where the cold wind blows
+W:In the pines in the pines
+W:Where the sun don't ever shine
+W:I would shiver the whole night through
+W:
+W:Her husband, was a hard working man
+W:Just about a mile from here
+W:His head was found in a driving wheel
+W:But his body never was found
+W:
+W:My girl, my girl, don't lie to me
+W:Tell me where did you sleep last night
+W:In the pines, in the pines
+W:Where the sun don't ever shine
+W:I would shiver the whole night through
+W:
+W:My girl, my girl, where will you go
+W:I'm going where the cold wind blows
+W:In the pines in the pines
+W:Where the sun don't ever shine
+W:I would shiver the whole night through
+
+X:15
+T: I'm So Lonesome I Could Cry
+C: Hank Williams
+M:3/4
+L:1/4
+K:F clef=treble
+"F"A2- A/F/ | A2- A/F/ | A2- A/F/ | C2 F |
+ A2- A/F/ | A2- A/F/ | C3- | "F7"C2 A |
+ "Bb"B2 B | B2 B | "F" c2 A | C2 A/c/ |
+ c2 A |"C7" G2 A/G/ | "F"F3 |] 
+W:Hear that lonesome whippoorwill
+W:He sounds too blue to fly
+W:The midnight train is whining low
+W:I'm so lonesome I could cry
+W:
+W:I've never seen a night so long
+W:When time goes crawling by
+W:The moon just went behind the clouds
+W:To hide its face and cry
+W:
+W:Did you ever see a robin weep
+W:When leaves begin to die?
+W:That means he's lost the will to live
+W:I'm so lonesome I could cry
+W:
+W:The silence of a falling star
+W:Lights up a purple sky
+W:And as I wonder where you are
+W:I'm so lonesome I could cry
