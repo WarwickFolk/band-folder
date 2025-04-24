@@ -1,0 +1,843 @@
+X:0
+%%titleleft
+%%leftmargin 1.3cm
+%%scale 0.95
+%%titlefont Times-New-Roman 24
+%%subtitlefont Times-New-Roman 12
+T: Can Henry Really Beat a Kangaroo? - An Australian Set
+K: Dmaj
+W:1. Adeline Schottische/Queer Fella's Schottische
+W:2. Lamplighter Schottische/The Sweetheart Schottische
+W:3. Mick Pilley's 1st Schottische/Mick Pilley's 3rd Schottische
+W:4. Wonky Clock
+W:5. Kangaroo Barn Dance
+W:6. Wirri Waltz/The Miner/Patterson's Air
+W:7. Just One Girl/Molly Malone/Henry Waltz
+W:8. Transit of Venus/Third of January
+W:9. Ben Cherry's Mazurka/Foster's Varsovienne
+W:10. Clementine/Mum's Mazurka
+W:11.Young May Moon/Magpie Jig
+W:12.The White Cockatoo/Harry Cotter's See Saw Polka
+W:13. Sydney Polka Charles Sandys Packer/On The Blue Lagoon
+W:14. Saucy Kate/Dingo's Breakfast
+W:15.Monymusk/Australian Jim/Skidoo
+W:16. The Earthworm
+W:17. He Played His Ukulele as the Ship Went Down
+W:
+T:Tunes Compiled by Jupiter from the Bush Traditions Australian Traditional Music Tunes Archive and Stephen 
+T:Darby's Open Australian Album (except Skidoo that's from Harry)
+
+%%newpage
+
+X:1
+%%titleleft 
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 1
+K: Dmaj
+
+X:2
+T:Adelina Schottische
+%%topspace -20
+% NFF Book 2022
+% Bush Traditions recording played by Ray Mulligan
+C:Thomas Edward Bulch (1862-1930)
+S:collected from Thomas Edward Bulch
+S:collected by Harry Schaefer, Forbes NSW (1879-1954)
+S:Rob Willis Collection, NLA
+H:This tune honors Bulch's daughter Adeline
+N:Schaefer Manuscript provided by Rob Willis in Oct 2020. The MS bears the signature of a Joyce Debenham
+N:Older versions:
+N: - Kerrs, v.4, No 429, (c.1880) as "Adelina Schottische", under the pseudonym Godfrey Parker
+R:Schottische
+M:4/4
+L:1/8
+K:D
+F>G|A>^G A>d B>^A B>=g | f>dA4F>G | A>^G A>d (3fed (3a=gf | e6F>G |
+A>^G A>d f>e d>a | g>eB4e>d | c>g g>c (3A^GA B2c | d2f2d2:|
+K:A
+c>d|e2a2f2a2 | e>f e>dc2e2 | d>e d>cB2f2 | e>f e>dc2c>d |
+e2a2f2a2 | e>f e>d c2e2 | f>a g>f e>d c>B | A2a2a2:|
+K:G
+z2|d4-d>^c d>g | B4B>^A B>d | c>B A>Bc2f2 | e>d G>AB2d2 |
+d4-d>^c d>g | B4B>d ^c>B | A>f e>d ^c>g f>e | d2d2d2z2 ||
+d4-d>d d>g | B4-BA Bd | c>B A>Bc2f2 | e>d G>AB2d2 |
+d4-d>^c d<g | e4e>g f>e | d>^ce>d =c>F B>A | G2g2g2z2:|
+
+X:3
+T:Queer Fella's Schottische
+% NFF Book 2006
+S:collected from Charlie Batchelor, Bingara, NSW
+S:collected by Chris Sullivan & Mark Rummery
+B:Australian Dance Tunes for Fiddle, Pioneer Performer Series, 2001, p5
+O:Australia, NSW, Bingara
+R:Schottische
+M:4/4
+L:1/8
+K:G
+B>c|"G"d2d>e d>B (3cBA|G>D G>Bd2g>e|"C"e>f (3gfe "Am"a>g e>c|"D7"A6(3ABc|
+"G"d2d>e d>B (3cBA|G>D G>Bd2g>f|"C"e>f (3gfe "D7"d>B (3cBA|"G"G2(3AGF G2B>d||
+"G"g2g2g2b>a|g>f (3gfe d4|"Em"B3g/f/ "Am"e>d c>B|"D7"A6B>d|
+"G"g2g2g2b>a|g>f (3gfe d2g>f|"C"e>f (3gfe "D7"d>B (3cBA|"G"G2(3AGF G4||
+
+%%newpage
+
+X:4
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 2
+K: Dmaj
+
+
+X:5
+T:Lamplighter Schottische
+% NFF Book 2008
+C:W.H.Montgomery, (pub c.1850)
+S:collected from Joe Cashmere, Sydney, NSW
+S:John Meredith Collection, NLA
+Z:arranged by Greg O'Leary
+N:Other versions collected in Australia
+N:- by John Meredith from Mick Pilley, Mudgee, NSW as "Mick Pilley's 2nd Schottische"
+%O:Australia, NSW,Sydney
+R:Schottische
+M:4/4
+L:1/8
+K:G
+|:"G"b2b2g2g2|d>e d>B G>B e<d|"C"c>B c>A "D7"F>A c>e|"G"d>e d>B G>B d>g|
+b4g2g2|d>e d>B G>B e<d|"C"c>B c>A "D7"F>A B>A|"G"G2G2G4:|
+|:"G"[G,2D2]B,>DG2D2|(3BdB G>Bd4|"C"(3gfe "D"d>cA2F2|"C"(3gfe d>B"G"G4|
+[G,2D2]B,>DG2D2|[D2B2]G>Bd4|"C"(3gfe d>c "D"A>F B>A|"G"G2G2G4:|
+
+X:6
+T:The Sweetheart Schottische
+% NFF Book 2006
+B:Kohler's Violin Repository of Dance Music, Vol 1, 1881, p75
+N:As played by Dave de Hugard
+O:Australia, Vic, Castlemaine
+R:Schottische
+M:4/4
+L:1/8
+K:G
+|:"G"B>c|d2g2 "C"e2g2|"G"d>B d>g b2a>g|"D"f2a2d2b>a|"G"g>a b>g"D"d2B>c|
+"G"d2g2"C"e2g2|"G"d>B d>g b2a>g|"D"f2a>g f>d e>f|"G"g2g2g2:|
+K:D
+|:a>g|"D"f2 (3fga "G"b2a2|"A"c2e>f"A7"g4|"A"c2-(3ceg c'2b2|"D"a>g f>g a>b a>g|
+"D"f2 (3fga "G"b2a2|"A"c2e>f"A7"g4|"A"c'>b a>g f>e d>c|"D"d2f2d2:|
+
+%%newpage
+
+X:7
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 3
+K: Dmaj
+
+
+X:8
+T:Mick Pilley's 1st Schottische
+% NFF Book 2015
+S:collected from Mick Pilley, Mudgee, NSW
+S:John Meredith Collection, NLA
+Z:arranged by Greg O'Leary
+O:Australia, NSW, Mudgee
+N:Older versions
+N:- "Paddy McGinty's Goat", https://tunearch.org/wiki/Paddy_McGinty%27s_Goat
+N:Related tunes collected in Australia
+N:- by John Meredith, "Folk Songs of Australia" v.2, p299, from Herb Archer, Ulan, NSW
+R:Barn Dance
+R:Schottische
+M:4/4
+L:1/8
+K:G
+"G"B2 B>A G2G>A|B>A B>c d2 d>B|"D7"c2 c>BA2A>B|c>B c>d e2 d>c|
+"G"B2 B>A G2G>A|B>A B>c d2 d>B|"C"c2 c>B"D7"A2 d>c|"G"B<G G2 G4|
+"G"g2g>e d2d>f|g>f g>e d2 d>e|"D7"f2f>e d2 d>e|f>g e>f d2 d>d|
+"G"e>g g>g e>g g>g|"D7"d<c c>d "Em"B2 B>B|"C"c2c>B "D7"A2 d>c|"G"B<G G2 G4|]
+
+X:9
+T:Mick Pilley's 3rd Schottische
+% NFF Book 2015
+S:collected from Mick Pilley, Mudgee, NSW
+S:John Meredith Collection, NLA Bib ID 148561
+Z:arranged by Greg O'Leary
+F:https://catalogue.nla.gov.au/Record/148561?
+R:Barn Dance
+R:Schottische
+M:4/4
+L:1/8
+K:G
+B>A|"G"G>G B>d g2e>g|"D7"(3fed c>BA2-A>B|A2c>e f2f2|"G"(3fed G>Bd2d>B|
+"G"G>G B>d g2e>g|"D7"(3fed c>BA2-A>g|f2f2f>e (3def|"G"g2g2g2(3def|
+"G"g2g2g>f e>g|"D7"f2f2f2A>B|"C"c2c2c>e d>c|"G" B2B2B2-B>e|
+"G"g2g2g>f e>g|"D7"f2f2f2f>g|a>f d>f a>f (3def|"G"g2g2g2|]
+
+%%newpage
+
+X:10
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 4
+K: Dmaj
+
+
+X:11
+T:Wonky Clock
+% NFF Book 2017
+% nb. misnamed "Wonkey Clock" in printed NFF Book 2017
+S:collected from Joe Yates, Sofala, NSW
+Z:from the playing of Cath Ovenden
+S:collected by Cath Ovenden, Wendy Hodgins, Steve Cook
+N:Taken from "The Fiddle Music of Joe Yates"
+F:https://www.facebook.com/fiddlemusicofjoeyates/
+Z:transcribed by Greg O'Leary
+O:Australia, NSW, Sofala
+R:Jig
+M:6/8
+L:1/8
+K:D
+"D"D3d2B|AFD FGA|D3d2B|AFD "A7"E3|
+"D"D3d2B|AFD FGA|"G"Bcd "D"ABA|"A7"GFE "D"D2A||
+"D" dcd B2A|"A/C#"dcd B2A|"Bm"dcd fed|"A7"cBc ABc|"G"dcd B2A|
+"D/F#"dcdB2A|"Em"dcd fed|1"A7"cAB GFE:|2 "Last""A7"cBA GFE|"G"D6||
+
+%%newpage
+
+X:12
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 5
+K: Dmaj
+
+
+X:13
+T:Kangaroo Barn Dance
+% NFF Book 2017
+C:Paula Zeloff (?) & Laura Lemon (1866-1924),
+S:Peter Ellis Collection, NLA
+B:turn of the C19th dance album, NLA ID:MUS N mbb 786.2 Z52
+B:"Flag of the Empire" by Felix Burns (1864 - 1920),
+B:Peter Ellis, "Collector's Choice, Vol 1", Victorian Folk Music Club Inc., 1986, p89, ISBN 0959826920
+R:Barn Dance
+M:4/4
+L:1/8
+K:C
+P:Part A
+(3EF^F|"C"G>e d>c G>^F G>^G|"Dm"A>f e>d A>^G A>^A|"G7"B2a2a2a2|"C"a>g ^f>ag2 (3EF^F|
+"C"G>e d>c G>^F G>^G|"Dm"A>f e>d A>^G A>^A|"G7"B2a2a2g2|(3bag (3fed"C"c2:|
+P:Part B
+|:(3EF^F|"C"G>e G>^G "F"A>f A>G|"C"G<eG4 (3EF^F|G>e c>G "D7"^F>e d>A|"C"c2"G"B2"Dm"A2"G"_A2|
+"C"G>e G>^G "F"A>f A>G|"C"G<eG2-G>^F G>^G|"Dm"A>^G A>d "G7"B>A G>d|1"C"c6:|2"C"c6z2||
+K:F
+P:Part C
+|:"F"C4F2-F>C|"Bb"D>F E>D"F"C4|"Bb"D>F B>d "F" c>A G>F|"G7"G>=B e>d "C7"(3c_BG (3ED_D|
+"F"C4F2-F>C|"Bb"D>F E>D"F"C4|"Bb"D>F B>d "F" c>A G>F|"G7"(3DEF "C7"E>G "F"F4:|
+P:Part D
+|:{a}"Dm"a>a g>f "A7"e4|{A}g>g f>e "Dm"d4|"Bb"(3d^cd (3fed "F"=c>d e>f|"G7"a>g f>d "C7"g4|
+{A}"Dm"a>a g>f "A7"e4|{A}g>g f>e "Dm"d4|"Bb"(3d^cd (3fed "F"=c>d e>f| "C7"a>g e>c "F"f4:|
+
+%%newpage
+
+X:14
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 6
+K: Dmaj
+
+
+X:15
+T:Wirri Waltz
+% NFF Book 2024
+S:collected from Cec Taylor and Harry Venn, Wirri, NSW
+S:Rob Willis Collection, NLA
+R:Waltz
+M:3/4
+L:1/8
+K:G
+"G"F>GF2.G2 | B2B2.B2 | F>GF2B2 | "C"c2c2c2 | F>GF2d2 | "D7"f2e2d2 |1 c2B2A2 | "G"B6 :|2 F2G2A2 | "G"G4z2 |]
+|:"G"G3B d2| g3dB2 | G2zBg2 | "D7"f3ed<c | A6 | f2e2d2 |1 A2B2c2 | "G"B6 :|2F2G2A2 | "G"G4z2 |]
+
+X:16
+T:The Miner
+% NFF Book 2022
+% Bush Traditions recording played by Ray Mulligan
+S:collected from Mrs R Sayers, Bulumwaal, Gippsland, Vic
+S:collected by Folklore Society of Victoria
+B:David Johnson, "Bush Dance", The Bush Music Club, 2001, p.56.
+R:Waltz
+M:3/4
+L:1/4
+K:G
+D|"G"BBB|G2G|"Em"B,EE|E2E|"D7"DFA|ddc|"G"B3-|B2D|
+"G"BBB|G2G|"Em"B,EE|E2E|"D"DFA|"C"cB"D7"A|"G"G3-|G2:||
+
+X:17
+T:Patterson's Air
+% NFF Book 2008
+S:collected from W A Patterson, Brisbane, Qld
+S:collected by Edgar Waters
+Z:transcribed by Harry Gardner
+N:Patterson lived north of Brisbane, it's probably a suburb nowadays. Harry Gardner
+R:Waltz
+R:Air
+M:3/4
+L:1/8
+K:G
+D2|"G"G3F AG|B4Bc|"D"A3G AB|"G"G4D2|"G"G3 F AG|"G"B4BB|"A"A3A B^c|"D"d4d2|
+"C"e3d cB|"C"c4B2|"D7"d3 c BA|"G"B4c2|"D"d3 c BA|"C"GFE4|"D7"A3B cB|"G"G4||
+
+%%newpage
+
+X:18
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 7
+K: Dmaj
+
+
+X:19
+T:Just One Girl
+% NFF Book 2017
+S:collected from Jack Lynch, West Wallsend, NSW
+S:John Meredith Collection, NLA
+H:Accordion player Jack Lynch learned this tune from his father
+H:who had learned it from his mother, "and it was old then."
+B:Brad Tate, "Down & Outback", Popinjay, 1988, p78
+O:Australia, NSW, West Wallsend
+R:Waltz
+% Bush Traditions recording played by Ingrid Wangel
+M:3/4
+L:1/8
+K:D
+FG|:"D"A4zB|A4zc|d6-|d2c2FG|A4zB|A4zd|"A"c6-|c4B2|1
+"A" A4zB|A4zB|A2G2E2|C2E2G2|"G"B4A2|B4E2|"D"D2F4-|F4FG:|2
+"D"A4zB|A6|B2F2A2|"A7"G2F2c2|"D"d6|"A"c6|"D"d6-|d4||
+
+X:20
+T:Molly Malone
+% NFF Book 2013
+S:collected from Frank Forde, Towradgi, NSW
+S:collected by Alan Musgrove
+Z:transcribed by Alan Musgrove
+R:Waltz
+O:Australia, NSW, Towradgi
+M:3/4
+L:1/8
+K:D
+B2c2||"D"d2FG AF|"A7"G2F2E2|"D"F2A2AB|"D"A2F2A2|"G"G2GAB2|"A7"c2B2A2|"D"d2dcd2|"A7"A2B2c2|
+"D"d2FG AF|"A7"G2F2E2|"D"F2A2AB|!"D"A4B2|"A7"c2e3c|"E7"d2c2B2|"A7"A3BA2|"A7"G2F2A2||
+|"D"d3cd2|"D7"d2c2=c2|"G"B2GFG2|"G"G2A2B2|"E7"e2e2ef|!"E7"e2d2B2|"A7"c2A2B2|"A7"c>BA2Bc|
+"D"d2FG AF|"A7"G2F2E2|"D"F2G2A2|"G"B4e2|"E7"d3Bc2|"A7"B2A2B2|"D"d3cd2|"D"d4z2||
+
+X:21
+T:Henry Waltz
+% NFF Book 2006
+S:collected from Alf Radunz, Coolabunia, Qld
+S:collected by Mark Schuster and Maria Zann
+H:Alf Radunz learned this tune from Karl Piglich
+O:Australia, Qld, Coolabunia
+R:Waltz
+M:3/4
+L:1/8
+K:D
+|:"D"[F6A6]|"G"[G6B6]|"D"[F4A4][FA][EG]|[D6F6]|[F4A4]d2|"G"[G4B4]d2|"A7"[A6^c6]-|[A4c4][G2d2]|
+[A6e6]|"D"[d6F6]|"A7"c2[A2c2][A2=c2]|"G/Em"[G6B6]|"D"A2F2A2|"A7"G2E2C2|"D"[D6F6]-|[D6F6]:|
+|:"D"a2ba ga|[d3f3][df][d2f2]|a2ba ga|"A"[c3e3][ce][c2e2]|
+a2ba ga|"A7"c'3=c'b2|1 (3aba g2eg|"D"f6:|2"D"a2"A7"g2ce|"D"d6||
+
+%%newpage
+
+X:22
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 8
+K: Dmaj
+
+
+X:23
+T:Transit of Venus
+% NFF Book 2020
+% Bush Traditions recording played by Roland Clarke
+C:Bride (pub 1775)
+S:see also The Convict Dance Music Research Project, by Dr. Heather Blasdale-Clarke at QUT
+Z:arranged by Roland Clarke, 2019
+R:Reel
+M:2/4
+L:1/8
+K:D
+"D"f2a/g/f/e/|f2a/g/f/e/|"G"dA Bc|dA Bc|"D"f2a/g/f/e/|"Bm7"f2a/g/f/e/|"G"dA Bc|"D"d2D2:|
+|:"D"A2G/F/E/D/|A2G/F/E/D/|"G"Bc de|"A"c2A2|"Bm7"B2g/f/e/d/|"A"c2a/g/f/e/|"G"dA Bc|"D"d2D2:|
+
+X:24
+T:Third of January
+% NFF Book 2016
+S:collected by Harry Schaefer, Forbes, NSW
+S:the Schaefer Manuscripts, held in the NLA
+O:Australia, NSW, Forbes
+R:Set Tune
+M:2/4
+L:1/8
+K:D
+|:"D"D2FA|D2FA|Dd c/B/A/G/|"A7"FE EA|"D"D2FA|D2FA|"G"BB/B/ Be/e/|1"D"ed dA:|2"D"ed d=c||
+K:G
+"G"B2BA|B2B<c|B>c BA|B2Bc|d>e dB|"C"e2"G"dB|"G"d>e dB|"D7"Ac BA|
+"C"G>A GE|"G"GA BA|"C"G>A GB|"G"G2GB|dd/d/ ef|"C"g2fe|"G"d>B "D7"AB|"G"G2-G2||
+
+%%newpage
+
+X:25
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 9
+K: Dmaj
+
+
+X:26
+T:Ben Cherry's Mazurka
+% NFF Book 2006
+S:collected from Ben Cherry, Armidale, NSW
+S:Barry McDonald Collection, ANL, Bib ID 178019
+Z:arranged by Greg O'Leary
+O:Australia, NSW, Armidale
+R:Varsovienne
+M:3/4
+L:1/8
+K:F
+f>e||"Dm"d>c d<e d>c|"F"A2A2F>A|"C"B2B>c d<c|"F"A4f>e|
+"Dm"d>c d<e d>c|"F"A2A2F>A|"C"G2G>A B<G|"F"F4C>F||
+"F"A2A2A<c|"C"G4E>F|"C"G2G>c d<c|"F"A4C>F|
+"F"A2A2A<c|"C"G4E>F|"C"G2G>A B<G|"F"F4z2||
+
+X:27
+T:Foster's Varsovienne
+% NFF Book 2022
+% Bush Traditions recording played by Ray Mulligan
+S:collected from Arthur Foster, Killarney Vale, NSW
+S:John Meredith collection, NLA Bib ID 645243
+B:J Meredith, R Covell & P Brown, Folk Songs of Australia Vol 2, UNSW Press, 1987, p263
+R:Varsovienne
+M:3/4
+L:1/8
+K:C
+|:(3GAB|"C"c2B2G2|"F"A4G>A|"G7"B2D2A2|"C" G4(3G,A,B,|"F"C2D2E2|"Dm"F2-F>D C>D|"G7"E>GE2D2|1"C"C4:|2"C"C4G2||
+|:"C"c>cc2A2|G>GG2E2|"G7" F>FF2D2|"C" E2G2(3GAB|c>cc2A2|G>GG2E2|"G7"F2E2D2|1"C"C4(3GAB:|2"C" C4||
+
+%%newpage
+
+X:28
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 10
+K: Dmaj
+
+
+X:29
+T:Clementine
+% NFF Book 2019
+C:trad
+S:collected from Mary Curtis, Kerang, Vic
+S:collected by John Meredith and Rob Willis
+H:Earliest sheet music reference seems to be about 1863 in the USA
+N:This tune was well known in Australia. It was collected many times over
+N:a wide area by Meredith and others. Normally informants used only part A
+N:as a mazurka. Mary Curtis was the first informant to play both parts.
+O:Australia, Vic, Kerang
+R:Mazurka
+M:3/4
+L:1/8
+K:D
+d>d|:"D"d2A2f>f|f2d2d>f|a2a2g>f|"A"e4e>f|
+g2g2f>e|"D"f2d2 d>f|"A"e2A2c>e|1"D"d4d>d:|2"D"d4a>g||
+|:"D"a>fd2a>g|a>fd2e>f|"A"g>ec2A2|"D"f>ed2a>g|
+"D"a>fd2a>g|a>fd2e>f|"A"g>ec2f>e|"D"d4z2:|
+
+X:30
+T:Mum's Mazurka
+% NFF Book 2006
+S:collected from Sally Sloane, Lithgow, NSW
+S:John Meredith Collection
+H:Learned by Sally from her mother, Sarah Frost
+B:Reprinted 1985 NSW University Press. ISBN 0 86840 002 5
+O:Australia, NSW, Lithgow
+R:Mazurka
+M:3/4
+L:1/8
+K:D
+F>A|:"D"d2 F2 A2|"A7"e3 d ce|b2 a2 (3faf|"D"A3 G F>A|
+d2 F2 A2|"A7"e3 d c>e|b2 a>g Bc|1"D"d4 F>A:|2"D"d4 fa||
+|:"D"b>a fd fa|b>a fd ef|"Em"ge B2 e2|"D"f>e d2 fa|
+b>a fd fa|b>a fd ef|"A"gf eA ce|"D"f>e d2fa:|
+
+%%newpage
+
+X:31
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 11
+K: Dmaj
+
+
+X:32
+T:Young May Moon
+% NFF Book 2020
+% Bush Traditions recording played by Roland Clarke
+C:trad
+S:see also The Convict Dance Music Research Project, by Dr. Heather Blasdale-Clarke at QUT
+S:see also Alexander Laing
+Z:arranged by Roland Clarke, 2019
+H:This tune was referred to in "Domestic Intelligence". (1832, January 25).
+H:The Sydney Monitor (NSW : 1828 - 1838), p2 (MORNING).
+B:H.E Clarke, Social Dance and Early Australian Settlement, PhD Thesis, QUT, 2018
+B:Alexander Laing manuscript (1863), Tasmanian State Archives, p30
+B:James Kerr "Merry Melodies" v2 p28 #260
+O:Australia, NSW, Sydney
+R:Jig
+M:6/8
+L:1/8
+K:C
+G|"C"c2Gc2G|"Am"A2G "G"G2G|"C"c2c dcd|e2c c2c|
+"F"f2f "C"e2e|"G"ded BAG|"Am"AGF EFG|A2G"G"G2:|
+|:g|"Am"a2a "C"gec|"Am"a2a "C"g2g |"Am"a2a "C"gec|"G"Bdd d2e|
+"F"f2f "C"e2e|"G"dec BAG|"Am"AGF EFG|A2G "G"G2:|
+
+X:33
+T:Magpie Jig
+% NFF Book 2009
+S:collected from Joe Yates, Sofala, NSW
+S:John Meredith Collection, NLA
+S:see also Alexander Laing
+Z:arranged by Greg O'Leary
+B:J Meredith, R Covell, & P Brown, Folk Songs of Australia Vol 2, UNSW Press, 1987, p193, ISBN 0 86840 018
+H:The Yates family had a pet magpie at one point. Joe managed to teach the
+H:whole first part to the tame magpie.
+N:Older versions of this tune: The earliest printed source appears to be:
+N:- John Young, "The Second Volume of the Dancing Master 1st Edition", p48, (1710) as "Would You Have a Young Virgin"
+N:- John Sutherland, "Aberdeen-shire Pastoral Pipe MS", (c.1785) as “Boys Avoid All Care”.
+N:The tune was collected in Australia as:
+N: - "Miss Mary Marshall's Favourite", Alexander Laing MS, 1863
+N: - “The Old Arrow Inn” Parts C & D from Frank Collins, Goulburn NSW
+N: - “Ernie Wells Set Tune” from Ernie Wells, Burrell Creek, NSW
+N: - "Going To Scotland", Harry Schaefer's lancers set, Fig 3, Schaefer MS, Forbes NSW
+F:https://tunearch.org/wiki/Would_You_have_a_Young_Virgin
+F:https://tunearch.org/wiki/Boys_Avoid_of_All_Care
+O:Australia, NSW, Sofala
+R:Jig
+M:6/8
+L:1/8
+K:D
+|:FG|"D"ABA ABA|d2A AFG|ABA ABA|"A7"e2A AFG|
+"D"ABA ABA|"Bm"d2A e2G|"D"fed "A7"ABc|1"D"d3-d:|2"D"d3-d2f||
+"D"fed fed|"A7"e2AA2f|"D"fed fed|"Em"g2ee2f|
+"D"fed fed|"G"gfe "A7"a2f|"D"fed "A7"ABc|"D"d2DD2||
+
+%%newpage
+
+X:34
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 12
+K: Dmaj
+
+
+X:35
+T:The White Cockatoo
+N:The Hopscotsh Polka
+% NFF Book 2006
+S:collected from Stan Treacy, Limerick, NSW
+S:collected by Dave de Hugard
+B:Stringybark & Greenhide, Vol 5, No 4, P7
+N:Just for the record this is a straight version of "The Hopscotch Polka" from the
+N:1950s. Stan, like most traditional players didnt care where a tune came from,
+N:as long as it was a good one. The first part of this tune is derived from
+N:a Scottish tune called the 'White Cockade' from 1802 - Dave de Hugard -
+O:Australia, NSW, Goulburn
+R:Reel
+M:4/4
+L:1/8
+K:G
+G|:"G"B2B2 cBAG|"G"B2d2d3G|B2B2 cBAG|"D7"B2A2A3A|
+"G"B2B2 cBAG|B2d2 "Em"g3e|"D"d4 c3A|1 "G"B2G2G2A2:|2"G"B2G2G4||
+|:"Em"B2e2 edef|g2e2e3d|"D"A2d2 d^cde|f2d2d3A|
+"Em"B2e2 edef|g2e2e2 ga|"Em"b2b2 "D"a2a2|"Em"g2e2e4:|
+
+X:36
+T:Harry Cotter's See Saw Polka
+% NFF Book 2013
+S:from the playing of Lou Cassidy & Lyn Handran Smith
+Z:transcribed by Ray Mulligan
+O:Australia, NSW, Binalong
+R:Polka
+M:2/4
+L:1/16
+K:G
+|:"G"g2d2 B2G2|"D"f2e2 A2cA|1"D"fze2 c2A2|ezd2"G"B4:|2"D"f2e2 A2F2|A2G2"G"G4||
+|:"G"D2GD "C"E2FE|"G"D2B2 B2GD|1"C"E2c2 cAFE|"G"D2B2B4:|2"C"E2c2 "D"A2F2|"G"G4-G4||
+
+%%newpage
+
+X:37
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 13
+K: Dmaj
+
+X:38
+T:Sydney Polka Charles Sandys Packer 
+L:1/8
+M:4/4
+K:Ab
+cd | ec'ba gbaf | efec A2cd | efed B2cd | efec B2cd |
+ec'ba gbaf |$ efec A2GA | GABc defg | a2c2 A2 :| 
+
+X:39
+T:On The Blue Lagoon
+C:Pat Dunlop
+S:National Library of AUSTRALIA MUS N mba 783.2 D922 
+%%score 1 ( 2 3 ) ( 4 5 )
+L:1/4
+M:4/4
+K:Ab
+|| A/ A F/ G/ G E/ | F/G/E/F/- F/E/F/G/ | A A G E |$ 
+F2- F/E/F/G/ | A/ A F/ G/ G E/ | F/G/E/F/- F/E/F/^F/ |$ G e =d G | c2 c/ z/ c/=B/ | 
+c/=A/G/F/- F/ c =B/ | c/_B/_A/F/- F F/G/ |$ A F A c | e2- e z || A/G/A/G/ B A | F G F/ E3/2 | 
+B/=A/B/A/ c G |$ F2- F/ z/ E | A/G/A/G/ B A | G A =A B | =d/c/A/F/ d/c/A/F/ |$ B2- B z | 
+A/G/A/G/ B A | F G F/ E3/2 | B/=A/B/A/ B =B | c2- c z |$ d/c/=A/F/ d/c/A/F/ | c B _A F | 
+E/F/A/F/ A G |1 A2- A z :|2$ A2 =E2 | _E/F/A/F/ A e | A2- A z |] 
+
+%%newpage
+
+X:40
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 14
+K: Dmaj
+
+
+X:41
+T:Saucy Kate
+% NFF Book 2023
+% Bush Traditions recording played by Jeff Lawrie
+S:collected from Albert 'Dooley' Chapman, Dunedoo, NSW
+S:collected by Chris Sullivan
+Z:transcribed by Jeff Lawrie
+R:Polka
+M:4/4
+L:1/8
+K:D
+F/G/|:"D"AF FE DE E>E|"A"GE ED E3F| GE E>D CE EE/G/|BA AG "D"[D3F3]F/G/|
+"D"AF FE DF F>F|"A"GE ED F3G|"D"A>B AG FG A>B|"A"AG "D"FE D4||
+
+X:42
+T:Dingo's Breakfast
+% NFF Book 2016
+C:Ross Smithard, 3 Oct 2011
+S:collected by Nick Hutten, Tura Beach, NSW
+H:Nick Hutton led this tune when playing at the Kameruka Hall, 1 Feb 2014
+O:Australia, NSW, Cobargo
+R:Reel
+M:4/4
+L:1/8
+K:D
+|:"D"D2FG ABd2|"G"B3d BAF2|"D"A3B AFDF|"A"EDEFA2F2|
+"D"D2FG ABd2|"G"B3d BAF2|"D"A3B AFDF|"A"EDEF"D"D4:|
+|:"D"d3cB2A2|BABcd2f2|"A"e3f edcd|e2f2 ecAc|
+"D"d3cB2A2|BABcd2f2|"A"e3f edcA|"G"BABc "D"d4:|
+
+%%newpage
+
+X:43
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 15
+K: Dmaj
+
+
+X:44
+T:Monymusk
+% NFF Book 2019
+% Bush Traditions recording played by Ray Mulligan
+C:Daniel Dow (1732 - 1783)
+S:collected from Bert Jamieson, Adaminaby, NSW
+S:collected by John Meredith and Rob Willis, NLA
+S:see also Alexander Laing
+N:John Meredith also collected a version from John McKinnon, Ecklin South, Vic.
+B:Peter Ellis, "The Waltz, The Polka and All Kinds of Dance Music", 2007, p145
+B:Alexander Laing Music Manuscript (1863), Tasmanian State Archives, p43
+B:James Kerr, "Merry Melodies", vol 2, p14, s.0 #6, No 116
+O:Australia, NSW, Adaminaby
+R:Step Dance
+M:4/4
+L:1/8
+K:G
+e|"G"d>G B>G d>G "C"c>e|"G"d>G B>G "D7"A>B c>e|"G"d>G B>G B>c d>g|"Am"e>c "D7"A>d "G"B<G G>d|
+"G"g>d B>d g>d B>d|g>d B>d "D7"c<A A>d|"G"g2"D7"f2"C"e2"D7"d2|"Am"e>c A>c "G"B>G Gz||
+
+X:45
+T:Australian Jim
+% NFF Book 2006
+S:collected from Mr MacMillan, Parramatta, NSW
+S:Alan Scott Collection, NLA, Bib ID 711485
+N:Alan Scott collected from a Mister MacMillan who believed it was
+N:written by his music teacher. (from my notes in Bush Dance)
+N:Since then I came across a hornpipe in A in the Allan's Irish Fiddler
+N:(c1920??) called Sweeney's Hornpipe and it is very closely related. - David Johnson -
+O:Australia, NSW, Parramatta
+R:Schottische
+M:4/4
+L:1/8
+K:G
+B>A|"G"(3GFG D>G E>G D>G|"Am"E>G A>B "D7"c2 B>A|"G"G>g f>g "Am"e>d c>B|"D7"(3ABA (3GFE D2 B>A|
+"G"(3GFG D>G E>G D>G|"Am"E>G A>B "D7"c2 B>A|"G"G>g f>g "Am"e>d (3cBA|"D7" G2 B2 "G" G2 |]
+B>c|"G"d>g f>g "Em"e>d B>c|"G"d>g f>g "Em"e2 B>c|"G"d>g f>g "Am"e>d c>B|"D7"(3ABA (3GFE D2 B>A|
+"G"(3GFG D>G E>G D>G|"Am"E>G A>B "D7"c2 B>A|"G"G>g f>g "Am"e>d (3cBA|"D7"G2 B2 "G"G2||
+
+X: 46
+T: Skidoo
+R: reel
+M: 4/4
+L: 1/8
+K: Emin
+|:"Em"GE E2 B2 AB|G3A BdAG|"Bm"FdAF D2 BA|GEED EBAB|
+"Am"GE E2 B2 AB|GBef gfed|"C"A2 de f3a|1 "D"gfed "Em"edBA:|2 "D"gfed "Em"e3 f||
+|:"Em"ge e2 Bege|Bege "Am"cedc|"Em"BEGA BEGA|BEGA "D"(3B^cd ef|
+"Em"e3d ebba|"C"g2 fg e2 AB|cAEA BGEG|1 "D" ADFD "Em"E2 ef:|2 "D"ADFD "Em"BEBA||
+
+%%newpage
+
+X:47
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 16
+K: Dmaj
+
+
+X:48
+T:The Earthworm
+N:from 'Song Stories For Small Australians' 1895
+N:New South Wales Kindergarten Association
+N: Copyright Expired in Australia
+C:Edith Walker and Jeanie Dane  
+C:Australian Kindergarten Association
+S:https://nla.obj-198367352
+Q:"adagio" 1/4=90
+R:Lullaby
+M:4/4
+L:1/8
+K:Eb
+V:1 
+G|G G/ G/ G3/2 B/ B2F F/ G/ | E E F3/2 F/G2 G2 | A/ c3/2 F/ A3/2 G/ B3/2 E E/ E/ | 
+w: Way down in the dark cool earth bed, Where the seeds are fast a-sleep, The bu-sy lit-tle earth* worm digs his
+w:No eyes has this lit-tle wor-ker, for he ne-ver needs the light, For he plods a- way in dark-* ness, and 
+F/ C3/2 D D F7/2 B,/|E/ F3/2 D B E/ G3/2 B3/2 G/ | c3/2 G/ G3/2 G/ B3 c/d/
+w:burr-ow dark and deep; He car-ries leaves and gra-*sses, to line the walls so strong that they
+w:creeps on ground at night; He makes a place for the root-lets to plant their ten-der feet, And he
+e B c3/2 G/ (GB) B3/2 G/ | E/ C3/2 D3/2 B,/E2z2 :| 
+w:may not hurt his bo-*dy, So slen-der and so long
+w:opens a way that ra-in drops, May wa ken seeds from sleep 
+N: V:2 clef=bass octave=-1
+N: [I: MIDI=program 44] !merge! z|   _E,2 _E,2 _E,2 _E,2 | _B,2 _B,2 _B,2 _B,2|
+N: _A,2 _A,2 _A,2 _A,2  |_B,2 _B,2 _B,2 _B,2 | 
+N:  _E,2 _E,2 _E,2 _E,2 | _B,2 _B,2 _B,2 _B,2| 
+N:  _A,2 _A,2 _A,2 _A,2    | _B,2 _B,2 _B,2 _B,2:|
+N: 
+
+%%newpage
+
+X:49
+%%titleleft
+%%topspace -10
+%%titlespace 0
+%%scale 0.6
+T:Page 17
+K: Dmaj
+
+
+X:50
+%%topspace -10
+T:He Played His Ukulele as the Ship Went Down
+% NFF Book 2020, and 2014
+S:collected from Bill Case, Mt Gambier, SA
+S:collected by Alan Musgrove, NLA Bib ID: 3765875
+Z:transcribed by Alan Musgrove
+H:Based on 'The Wreck of the Nancy Lee' by A Le Clerq, 1932
+O:Australia, SA, Mt Gambier
+R:Reel
+M:2/4
+L:1/8
+K:G
+%%musicspace -50
+d/c/|:"G"Bd/B/ GB|"Am"Ac EA/B/|"D7"cA FD|"G"G/D/G/B/ "D7"dd/c/|
+"G"Bd/B/ GB|"Am"Ac EA/B/|"D7"c/B/A/G/ F/D/E/F/|1"G"GG Gd/c/:|2"G"GG GF||
+|:"Em"EG Be|"C"cc "B7"B2|"Em"EG Be|"A7"^cB/c/ "D7"dB/=c/|
+"G"dB GA/B/|"Am"cA FE|"D7"D/E/F/G/ A/B/d/c/|1"G"BG GF:|2"G"BGG2||
+%%scale 0.7
+W:
+W:I'll tell the tale of the Nancy Lee
+W:The ship that got shipwrecked at sea
+W:The bravest man was Captain Brown
+W:For he played his ukulele as the ship went down
+W:
+W:All the crew were in despair
+W:Some rushed here and some rushed there
+W:But the Captain sat in the Captain's chair
+W:And he played his Ukulele as the ship went down
+W:
+W:The owner wirelessed to the crew
+W:"Do the best that you can do
+W:We're only insured for half-a-crown
+W:So, I'll be out of pocket if the ship goes down"
+W:
+W:The Captain answered, "Holy gee!
+W:It's all up for the Nancy Lee
+W:You're all right, but what about me
+W:I shall wet my ukulele when the ship goes down"
+W:
+W:When they heard the news at the Admiralty
+W:They wirelessed to the Nancy Lee
+W:"We'd like to speak to Captain Brown
+W:If he isn't very busy when the ship goes down"
+W:
+W:The Captain answered, "What's to do?"
+W:The Admiralty said, "At half-past-two
+W:We'll be listening in to you
+W:When you play your ukulele when the ship goes down"
+W:
+W:The pets on board were all scared stiff
+W:The cat meowed and the monkey sniffed
+W:The old green parrot hung upside down
+W:Saying, "Scratch-a-polly", as the ship went down
+W:
+W:The crow's nest fell and it killed the crow
+W:The starboard watch was two hours slow
+W:But the Captain sung, "Voh-doh-dee-oh-doh"
+W: As he played his ukulele as the ship went down
