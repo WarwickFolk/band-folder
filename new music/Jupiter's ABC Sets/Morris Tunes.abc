@@ -1,0 +1,159 @@
+X:0
+%%titleleft
+%%scale 1.3
+%%titlefont Times-New-Roman 24
+%%subtitlefont Times-New-Roman 12
+T:Warwick University Morris Tunebook
+T:I really wish I could put a picture of a bear on the front of this
+W: Speed The Plough
+W: Powder Rag
+W: Sheperd's Hey
+W: The Bear Dance
+W: Constant Billy
+W: Princess Royal
+W: Vandalls of Hammerwich
+W:
+
+%%newpage
+
+X: 1
+T:Speed The Plough
+T: Bampton
+M:2/4
+L:1/8
+S:Ben Lobley 1975
+A:Bampton
+P:A(AB2)4
+K:G
+P:A
+|:"G"GABc|dedB|"G"dedB|dedB|"C"c2(3cdc|B2B2|"D"A2A2|A4:|"D"A2F2|"G"G4||
+P:B
+|:"C"g2gg|g4  |g2fe|"G"dBGB|"C"cdec | "D" A2 AA | A4 :|"D"A2F2|"G"G4||
+
+/X: 3
+/T: Powder Rag v1
+/Q:120
+/M:4/4
+/L:1/8
+/S:Ben Lobley 1975
+/A:Bampton
+/P:?
+/K:C
+/D^CDG- GFED | =C2 z2 [B,4G4] [|: G2 G^F G2 GF | G^FGc- cBAG | 
+/E2 E2 E2 E2 | E^DEA-  AGEC | =D2 D^C D2 DC | D^CDG- GFED 
+/|1 =CDEF G2 AB- | B^ABd-  dEF^F :|2 D^CDG- GFED | =C2 z2 [B,4G4] |]
+
+/X: 4
+/T: Powder Rag v2
+M:4/4
+L:1/8
+S:Ben Lobley 1975
+A:Bampton
+K:C
+[|: G2 G^F G2 GF | G^FGc- cBAG | 
+E2 E2 E2 E2 | E^DEA-  AGEC | =D2 D^C D2 DC | D^CDG- GFED 
+|1 =CDEF G2 AB- | B^ABd-  dEF^F :|2 D^CDG- GFED | =C2 "any chord""you want"z2 [B,4G4] |]
+
+/X: 3
+/T: Powder Rag 
+Q:120
+M:4/4
+L:1/8
+S:Ben Lobley 1975
+K:C
+D^CDG- GFED | =C2 z2 [B,4G4] |
+[|: G2 G^F G2 GF | G^FGc- cBAG | E2 E2 E2 E2 | E^DEA-  AGEC |
+ =D2 D^C D2 DC | D^CDG- GFED | =CDEF G2 AB- | B^ABd-  dEF^F :|
+
+X: 2
+T: Powder Rag v4
+T: Bampton
+M:4/4
+L:1/4
+S:Ben Lobley 1975
+K:G
+B c d d/^c/ | d d/c/ d/c/ d | g3//f// e3//d// B B | B B B/A/ B | 
+e3//d// =c3//B// AA | A A A/G/ A | d3//c// B3//A// G3//A// B3//c// | d e f3//e// f//d3//- | 
+d B3//c// d/^c/ | d d/c/ d/c/ d | g3//f// e3//d// B B | B B B/A/ B |
+  e3//d// =c3//B// AA | A A A/G/ A | d3//c// B3//A// G e | d3//B// A G2 :|
+
+X: 3
+T: Sheperd's Hey
+T:Bidford
+M:4/4
+L:1/8
+S:Ben Lobley 1975
+K:G
+"G"BcdB "C"c2c2 | "G"BcdB "D7"A2A2 | "G"BcdB "Am"c2 Bc | "D7"d2 D2 "G"G3 A |
+"G"BcdB "C"c2c2 | "G"BcdB "D7"A2A2 | "G"BcdB "Am"c2 Bc | "D7"d2 D2 "G"G3 A ||
+"G"B2 G2 "C"c3 A | "G" B2 G2 "D7"A3 A | "G"BcdB "Am"c2 Bc | "D7"d2 D2 "G"G3 A |
+"G"B2 G2 "C"c3 A | "G" B2 G2 "D7"A3 A | "G"BcdB "Am"c2 Bc | "D7"d2 D2 "G"G3 ||
+
+X:4
+T:The Bear Dance
+M:2/4
+L:1/8
+R:polka
+K:Em
+"Em"BE E2|BE E>F|GG FG|"D"A3 G/2A/2|
+"Em"BB AA|GG "D"F2|"Em"E/2F/2G "D"FD|"Em"E2 E2:|
+|:"Em"E/2F/2G E/2F/2G|"D"FD D2|"Em"E/2F/2G E/2F/2G|"D"A3 G/2A/2|
+"Em"Be Be|Be B>A|GE "D"FD|"Em"E2 E2:|
+
+X:5
+T:Constant Billy
+M:6/8
+L:1/8
+R:polka
+K:D
+"A"
+D2 A FEF | G2 E ECA, | F2 D B,2 D | A,B,C D2 A, | 
+D2 A FEF | G2 E ECA, | F2 D B,2 D | A,B,C D3 ||
+"B"
+G2 A BGE | F2 G AFD | G2 A BGE | EF^G A2 (3A,/B,/C/ | 
+D2 A FEF | G2 E ECA, | F2 D B,CD | A,B,C D3 | 
+
+
+X: 6
+T:Princess Royal
+T: Bampton
+M:2/2
+L:1/8
+A:Bampton
+P:AA2B2(C2B2)B
+K:GMin
+P:A
+dc|B2A2 G2dc|B2AB  G2Bd|e2c2 cdec|d2dc BABd|
+c2B2 A2G2|FGFD B,2dc|B2AG F2d2|G4   G4||
+P:B
+b2b2 b2ab|c'2f2   f4|bagf edcB|AcF2 F4|
+G2GA BABc|d2d2   g3g|f2d2 e3e |d2G2 c4|
+dcBA GABc|d2G2  G2dc|B2AG F2d2|G4   G4||
+P:C
+M:2/4
+d3c|\
+M:4/4
+L:1/8
+B3c A3B|G4 d3c|B3c A3B|G4 d4|e4 c4|c2d2 e2c2|d4 B4|
+M:2/4
+BABd|\
+M:4/4
+L:1/8
+c2B2 A2G2|FGFD B,2dc|B2AG F2d2|G4 G4||
+
+X: 7
+T:Vandalls of Hammerwich
+T: Lichfield
+M:4/4
+L:1/4
+A:Lichfield
+P: A(AB)3 A2B
+K:G
+P:A
+GE[|"G" DGBG |DGBG |"G"d2d>"D"d|d2d2 |
+"G"DGBG |DGBG |"C"dc"D"AF |"G"G2  Bc |]
+P:B
+|:"G"d2d>d|d3d  |"C"egfe |"D"edd>e|
+"C"dcc>c|"G"cBB>B|"C"dc"D"AF |1"G"G2 Bc :|2 "G"G2 |]
+
+

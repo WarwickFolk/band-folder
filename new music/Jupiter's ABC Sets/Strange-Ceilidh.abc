@@ -1,0 +1,665 @@
+X:0
+%%titleleft
+%%leftmargin 1.3cm
+%%scale 1.3
+%%titlefont Times-New-Roman 24
+%%subtitlefont Times-New-Roman 12
+T: The Strange Ceilidh
+K: Dmaj
+W:1. Gay Gordons
+W:2. Dashing White Sergeant
+W:3. Fflanigen
+W:4. Wizard's Walk
+W:5. Lucky Seven
+W:6. Virginia Reels
+W:7. Canadian Barn Dances
+W:8. Military Two Step
+W:9. Irish Waltzes
+W:10. Orcadian Strip The Willow
+W:11.Auld Lang Syne
+W:
+T:Set compiled 1.5 times by Jupiter
+T:My laptop crashed as I was compiling these, I had to restart, I nearly cried
+
+%%newpage
+
+X:1
+%%titlespace 0
+%%topspace -10
+%%titleleft
+T:Gay Gordons
+T:Gay Gordons
+K:
+
+X:2
+%%topspace -10
+%%musicspace -10
+T:Scotland the Brave
+M:4/4
+L:1/4
+K:G
+D | "G"G2 G3/A/ | BGBd | g2g3/f/ | gdBG | "C"c2e3/c/ | "G"BdBG | "D7"A2d3/e/ | dcBA | 
+"G"G2 G3/A/ | BGBd | g2g3/f/ | gdBG | "C"c2e3/c/ | "G"BdBG | "D7"A2 "G"G3/F/ | "G"G2 d/e/f/g/ ||
+"D"a2 a3/a/ | afdf | "G"g2b3/a/ | gdBd | g2g3/g/ | "D"f2g3/f/ | "Am"egfe | "D7"dcBA | 
+"G"G2 G3/A/ | BGBd | g2g3/f/ | gdBG | "C"c2e3/c/ | "G"BdBG | "D7"A2 "G"G3/F/ | "G"G3 |]
+
+X:3
+T:The Barren Rocks of Aden
+M:4/4
+L:1/8
+K:D
+de | "D"f3gf3e | d2f2A3d | "A7"c2e2A2de | "D"f2A2"A7"d2e2 | "D"f3gf3e | d2f2A3d | "A7"c2e2A2fe | "D"d6 :|
+fg | "D"a3fd3f | "Em"e2f2"A7"A2ef | "A7"g3ec3e | "D"d2f2A2fg | "D"a3fd3f | "Em"e2f2"A7"A2ef | g2e2c2e2 | "D"d4 defg |
+"D"afdf afdf | "Em"e2f2"A7"A2ef | gece gece | "D"d2f2A2fg | afdf afdf | "Em"e2f2"A7"A2ef | g2e2c2e2 | "D"d6 |]
+
+%%newpage
+
+X:4
+%%musicspace -5
+%%titlespace -15
+T:The Headlands
+M:4/4
+L:1/4
+K:A
+ e d | "A" d c B A | "A"A/ c3/ E3/ A/ | "D" F A d e | "E7" e2 e f/g/ | "A" a3/ e/ f a | "F#m" f e d c | "B7" c3/ B/ A c | "E7" B2 e3/ d/ |
+"A" d c B A | A/ c3/ E3/ A/ | "D" F A d f | a2 g f | "A"e a A c |"E7" B f e d | "A" c2 "D" A2 | "A" A2 :|
+"B"e f/g/ | "A"a3/ e/ f a | "A"c e c A | "D" d A d f | "E7"e2 e f/g/ | "A"a3/ e/ f a | "F#m" f e d c | "B7" c3/ B/ A c | "E7" B2 e f/g/ | 
+"A" a e e a | "A" c e c A | "D" d A d f | "D"a2 g f | "A"e a A c | "E7" B f e d | "A"c2 "D"A2 | "A"A2 "E7"e f/g/ | 
+"A"a3/ e/ e a | "A" c e c A | "D"d A d f | "A"e2 "E7"e f/g/ | "A" a3/ e/ f a | "F#m"f e d c | "B7" c3/ B/ A c | "E7" B2 e3/ d/ |
+"A"d c B A | "A"A/ c3/ E3/ A/ | "D" F A d f | "D"a2 e d |"A" e a A c | "E7" B f e d | "A" c2 "D"A2 | "A"A2 ||
+
+X:5
+%%musicspace -10
+%%titlespace -15
+T:Rattlin' Bog
+M:4/4
+L:1/4
+K:A
+A/2B/2 | "A"c2 c3/2B/2 | "D"A F F3/2F/2 | "A"E A A/2G/2A/2B/2 | "E7"c B B2 | 
+"A"c2 c3/2B/2 | "D"A F F3/2F/2 | "E7"E e e3/2d/2 | "A"c A A :|]
+[|: A/2B/2 | "A"c A "E7"B A/2B/2 | "A"c A "E7"B A/2B/2 | "A"c e e3/2d/2 | "A"c B "E7"B2 | 
+"A"c A "E7"B A/2B/2 | "A"c A "E7"B A/2B/2 | "A"c e "E7"e3/2d/2 | "A"c A A :|]
+
+%%newpage
+
+
+
+X:6
+%%titlespace 0
+%%topspace -10
+%%titleleft
+T:Dashing White Sergeant
+T:Orbital Mechanics
+K:
+
+X:7
+%%topspace -10
+%%musicspace -10
+T:The Dashing White Sergeant
+M:2/4
+L:1/8
+K:D
+F/E/ | "D"DD D/E/F/G/ | AA Af/e/ | dB AF | "A7"BE E/G/F/E/ | 
+"D"DD D/E/F/G/ | AA Af | "E7"ed cB |1 "A7"A/G/A/B/ A/G/F/E/ :|2 "A"A/c/e/c/ AE ||
+ "A"AA/B/ cc/d/ | ee/c/ A3/A/ | "Bm"BB/c/ dd/e/ | ff/d/ B3/B/ | 
+"A"cA/A/ "D"dA/A/ | "A7"eA/A/ "D"fA/A/ | "G"gf ed | "A7"cB AG | 
+"D"Fd d/c/d/e/ | dA A3/^A/ | "Em"Be e/^d/e/f/ | eB B2 | 
+"D"Ad d/c/d/e/ | fd d/c/d/e/ | "A7"f2 a2 | "D"d3 |]
+
+X:8
+%%titlespace -10
+%%musicspace -10
+T:The White Cockade
+M:2/4
+L:1/8
+K:G
+G/A/ | "G"BB BA/G/ | BB Bg | dB BA/G/ | "D7"BA AG/A/ |
+ "G"BB c/B/A/G/ | Bd g3/a/ | "G"b/a/g/f/ "D7"a/g/f/e/ | "G"dB B :|]
+|: Bc | "G"dB gB | dd d3/e/ | dB gf/g/ | "D7"aA AG/A/ |
+"G"BB c/B/A/G/ | Bd g3/a/ | "G"b/a/g/f/ "D7"a/g/f/e/ | "G"dd d :|
+
+%%newpage
+
+X:9
+%%titlespace -10
+%%musicspace -10
+T:The Ton
+M:2/4
+L:1/8
+K:A
+c/d/ | "A"ea ac/d/ | ce ec/B/ | "D"AA "E7"BB | "A"c/B/c/d/ cc/d/ |
+ "A"ea ac/d/ | ce ec/B/ | "D"AA "E7"BB | "A"A2 A :|]
+|: c/d/ | "A"ea "D"fd | "A"ea "D"fd | "A"e3/c/ Ac | "E7"B/A/B/c/ Bc/d/ |
+ "A"ea "D"fd | "A"ea "D"fd | "A"c/e/c/A/ "E7"B/d/B/G/ | "A"A3 :|]
+
+X:10
+T:The Fairy Dance
+M:4/4
+L:1/8
+K:D
+|:"D"f2 fd f2 fd | f2 fd "A"cdeg | "D"f2 fd "G"gfed | "A" cABc "C#/A"defg :]
+|:"D" a2 af "Bm" b2 bf | "Em"g2 ge "A" a2 ag | "D"f2 fd "G"gfed |1"A"cABc "C#/A" defg :|2 "A7" cABc "D"d3 ||
+
+X:11
+T:Kate Dalrymple
+M:4/4
+L:1/8
+K:A
+|:"A" A2 Ac "E"B2 Bc | "A" A2 Ac "E" B2 Bc | "A" A2 ab "D" fedc |1 "E" B2 e2 "A"c2 A2 :|2"E"B2 e2 c2 "A"Ac ||
+"A"e2 ef edcd | "A" e2 a2 e2 cd | "A"e2 a2 e2 a2 | "A"e2 ag fedc |
+ "D"d2 fe "A" c2 eA | "E" B2 Bc "E7"d2 cB | "A"A2 ab "D"fedc | "E"B2 e2 "A"c2 A2 ||
+%%newpage
+
+X:12
+%%titleleft
+%%titlespace 0
+%%topspace -10
+T:Fflanigen
+T:Fflanigen
+M:6/8     %Meter
+L:1/8     %
+K:C
+
+X: 13
+%%titlespace -50
+%%musicspace -20
+T: Ffaniglen
+M: 4/4
+L: 1/4
+K: Dmaj
+A>G|"D" FD DD|DF Ad|"A" cA AA|Ac eg|
+"D" f>e dc|"G" Bg gf|"E" e/f/e/d/ c/d/c/B/|"A" A/B/A/G/ F/G/F/E/|
+"D"!segno! FD DD|D/E/F/G/ A/B/c/d/|"A" cA AA|A/B/c/d/ e/f/g/a/|
+"D" fd dc|"G" Bg "A" ec|"D" d2 f2|d2 !fine!
+f>g|"D" af fd|fd fa|"A" ge ec|ec eg|
+"D" f>e dc|"G" B g2 f|"E" e/f/e/d/ c/d/c/B/|"A" A/B/A/G/ F/G/F/E/!D.S.!
+
+X: 14
+%%titlespace -10
+%%musicspace -20
+T: Difyrrwch Gwŷr Llanfabon
+M: 4/4
+L: 1/4
+K: Gmaj
+|:G/A/|"G" BB Bd|GG GA|BB "C" ce|"D" d3 d/c/|
+"G" BB Bd|"Am" AA A>B|"D" cc B/A/G/F/|"G" G3:|
+e/f/|"G" gg de/f/|gg de/f/|gg "C" a/g/f/e/|"D" d3 ^c/d/|
+"A" ee A^c/d/|ee Af/g/|ag fe|"D" d3 d/c/|
+"G" BB Bd|GG GA|BB "C" ce|"D" d3 e/f/|
+"Em" gg "D" ff|"C" ee "G" dd|"Am" ce "D" d/c/B/A/|"G" G3||
+
+%%newpage
+
+X: 15
+%%titlespace -10
+%%musicspace -10
+%%scale 0.6
+T: Tŷ Coch Caerdydd
+M: 4/4
+L: 1/4
+K: Gmaj
+|:B/A/|"G" Gg g/f/e|d2 cB|"Am" ce e/d/c|"D" B/c/B/A/ "G" GB/A/|
+"G" Gg g/f/e|d2 cB|"Am" BG "D" F/G/A/F/|"G" GB G:|
+|:B/c/|"G" d/c/B/A/ G/A/B/c/|dd d/c/B/A/|"D" c/B/A/G/ F/G/A/B/|cc c/B/A/G/|
+"G" d/c/B/A/ G/A/B/c/|dd d/c/B/A/|"Am" BG "D" F/G/A/F/|"G" GB G:|
+|:B|"Am" A/B/c cc|"D" A/B/c cc|"G" B/c/d dd|B/c/d dd|
+"Am" A/B/c cc|"D" A/B/c cc|"G" BG "D" F/G/A/F/|"G" GB G:|
+
+X: 16
+T: Machynlleth
+%%titlespace -10
+%%musicspace -10
+%%scale 0.6
+M: 4/4
+L: 1/4
+K: Gmaj
+|:B/c/|"G" d/e/d/c/ B/c/B/A/|GG GA/B/|"D" cA AA/B/|cA AB/c/|
+"G" d/e/d/c/ B/c/B/A/|"Em" GG GA/B/|"C" cA "D" GF|"G" G3:|
+|:z|"D" F/A/c/A/ F/A/c/A/|"G" G/B/d/B/ G/B/d/B/|"D" F/A/c/A/ F/A/c/A/|F/A/c/A/ "G" G/B/d/g/|
+"C" ee eg|"G" dd dg|"D" dc BA|"G" G3:|
+|:B/c/|"G"d>e dc|B>A Bc|dg "C" fe|"D" ed dB/c/|
+"G"d>e dc|"Em" B>A Bc|"C" cA "D" GF|"G" G3:|
+|:z|"D"A>B cA|"G" B/c/d/e/ d2|"D"A>B cA|"G" B/c/d/e/ d2|
+"C" e>e eg|"G" d>d dg|"D" dcBA|"G" G3:|
+%%newpage
+X:17
+%%titlespace 0
+%%topspace -10
+%%titleleft
+T:Wizard's Walk
+T:IVFDF Final Dance (I'm so sorry I didn't get the name of it)
+K:
+
+X:18
+%%topspace -10
+T:The Wizard's Walk
+C:Jay Ungar
+M:4/4
+L:1/8
+K:Em
+"Em"e2dc BAGF | GAFG E2B2 | e3f gfef | "B7"gafg "Em"e4 | 
+"Am"a2gf edcB | cdBc A2E2 | A3B cBAB | "E7"cdBc "Am"A4 ||
+"B7"BB[Bf]B B[Bf]BB | "C"[cg]cc[cg] cc[cg]c | "B7"BB[Bf]B B[Bf]BB | "C"[cg]cc[cg] cc[cg]c | 
+"B7"[Bf]BBB "C"[cg]ccc | "B7"[Bf]BBB "C"[cg]ccc | "B7"BB^cc ^ddee | ffgg aabb ||
+|: "Em"egbg egbg | "B7"^dfbf dfbf | "D"=dfab afdB | "A"^ceae aecA | 
+"C"=cege cege | "Em"Bege Bege | "E�"_Bege Bege | "Bsus4"=Bege "B7"fe^df :|
+
+%%newpage
+
+X:19
+%%titlespace 0
+%%topspace -10
+%%titleleft
+T:Lucky Seven
+T:Lucky Seven
+K:
+
+X:20
+%%titlespace -10
+%%musicspace -10
+T:Glandyfi
+K:G
+M:6/8
+L:1/8
+D | "G"G2 G G2 B | "Em"d2 c B2 G | "Am" A2 A AGA | "G" B2 G "D" E2 D | 
+"Em" G2 G G2 B | d2 c B2 G | "Am" c2 B "D" AGA |1 "G" G3 G2 :]
+|: d| "C" e2 d e2 d | e2 f g2 d | "Am" e2 d cBA | "G" B2 G "C" E2 D | 
+"G" G2 G G2 B | "Em" d2 c B2 G | "Am" c2 B "D"AGA |1 "G" G3 G2:]2
+
+
+X:21
+%%titlespace -10
+%%musicspace -10
+T:Dwr yr Avon
+K:C
+M:6/8
+L:1/8
+E | "Am" A2 B c2 e | "Dm"d2 c "Em"B2 B | "F"c2 B A2 c | "Em"B2 G E2 E | 
+"Am"A2 B c2 e | "Dm" d2 c "Em" B2 B | "F" cBA "Em" BAG | "Am" A3- A2:]
+|: B | "C" c2 d e2 c | "G"d2 c B2 B | "Am"c2 B A2 A | "Em" B2 G E2 G | 
+"C"c2 d e2 c | "G"d2 c B2 B | "F" cBA "Em" BGE | "Am" A3- A2 :]
+
+X:22
+%%titlespace -10
+%%musicspace -10
+T:Gylychu'r Gwair
+K:G
+M:6/8
+L:1/8
+"G" G2 G G3/2A/B/c/ | "G" d2 B G2 B | "D" A2 B A2 B | "D" A2 B AFD | 
+"G" G2 G G3/2A/B/c/ | "G" d2 B G2 B | "C" A2 G F2 E | "D" D3 D3 :|
+|: "D" A2 B A2 B | A2 B AFD | "G" B2 c d2 e | d2 e dBG | 
+"C" c2 B c2 d | e2 f gfe | "D" dcB AGF |"G" G3 G3 :]
+
+%%newpage
+
+
+X:23
+%%titlespace 0
+%%topspace -10
+%%titleleft
+T:Virginia Reels
+T:Flying Scotsman
+K:
+
+X:24
+%%topspace -10
+T:My Love She's But a Lassie Yet!
+M:4/4
+L:1/4
+K:D
+d/c/ |"D"dDFA | dDDd/c/ | dDFA | "A7"eEEd/c/ | 
+"D"dDFA | "G"Bgfe | "A7"d/c/B/A/Bc | "D"dDD :|
+|:f/g/ | "D"a3/f/"A"g3/e/ | "D"fddf/g/ | "D"a3/f/"G"ga | "Em"be"A"ef/g/ | 
+"D"aa/f/ "A"gg/e/ | "D"ff/d/"A"ec | "A7"d/c/B/A/Bc | "D"dDD :|
+
+X:25
+%%titlespace -20
+%%musicspace -10
+T:Morpeth Rant
+M:4/4
+L:1/8
+K:D
+(3ABc | "D"d2 AG FDFA | "G"BGBd "A"cAce | "D"f2 fd gfed | "A"c2 e2 e2 A2 |
+"D"d2 AG FDFA | "G"BGBd "A"cAce | "D"f2 fd "G"gfed | "D"A2 d2 d2 :|]
+[|: A2 | "D"dfaf dfaf | "Em"gfef g2 ef | "A7"gfed cdeg | "D"fefg f2 f2 | 
+"Bm"dfaf dfaf | "Em"gfef g2 ef | "A7"gfed cdeg | "D"f2 d2 d2 :|]
+X:26
+%%topspace -10
+T: Staten Island
+M: 4/4
+L: 1/8
+K: D
+ AG | "D"FDFG A2A2| "G"dfed  "A"dcBA |"G"B2 GB "D"A2 FA |"A7"G2E2E2 AG | 
+"D"FDFG A2A2 |"G"dfed  "A"dcBA |"D"d2d2 "A7"efge |"D"f2d2d2::  
+fg |"D"a2 fa "A"g2 eg |"D"f2 df  "A"ec A2|"C"=c2c2 e=fge |"C"=c2c2 e=fge |
+"D"a2 ^fa "A"g2 eg |"D"f2 df  "A"ec A2|"D"d2d2 "A7"efge |"D"f2d2d2:| 
+%%newpage
+
+X:27
+%%musicspace -10
+T:Soldier's Joy
+M:4/4
+L:1/8
+K:D
+FG | "D"AFDF AFDF | A2 d2 d2 cB | AFDF AFDF | "A7"G2 E2 E2 FG | 
+"D"AFDF AFDF | A2 d2 d2 (3efg | fafd "A7"egec | "D" d2 d2 d2 :|]
+[|: de | "D"f2 fd fagf | "A7"e2 ec egfe | "D"f2 fd fagf | "A7"edcB A2 de | 
+"D"f2 fd fagf | "A7"e2 ec egfe | "D"fafd "A7"egec | "D" d2 d2 d2 :|]
+
+X:28
+%%topspace -10
+T: Bonny Kate
+M: 4/4
+L: 1/4
+K: G
+def|: "G"g3/2f/g3/2f/|gddB| "C"c/d/ e"D"d3/2c/|"G"BGG3/2A/|
+"Em"BGG A/B/ |"Am"cA"D7"A2| "G"B/c/ dcB|[1"D7"Adef:| [2"D"A2A2||
+|: "G"BGG A/B/ |"Am"cA"Bm"dB|"C"ecc d/e/ |"D"f2d e/f/ |
+"G"g3/2f/g f/e/ |"D"d e/f/ "G"gB| "C"c/d/ e"D"d3/2c/|[1"G"BGGA:| [2"G"Bd"D7"ef|] 
+
+
+
+%%newpage
+
+X:29
+%%titlespace 0
+%%topspace -10
+%%titleleft
+T:Canadian Barn Dances
+T:Bonus Music!
+K:
+
+X:30
+%%topspace -10
+T:The Marquis of Lorne
+M:4/4
+L:1/16
+K:G
+b3a | "G"g3f g3e3 B4 e3d | "Am"c3B c3A E4 A3G | "D7"F3G A3B c3d e3f | "G"(3g2b2a2 (3g2f2e2 "D7"d4 b3a | 
+"G"g3f g3e3 B4 e3d | "Am"c3B c3A E4 A3G | "D7"F3G A3B c3d e3f | "G"g4 b4 g4 :|
+|: B3c | "G"d3B g3B d3g B3c | (3d2c2B2 g3B d4 c3B | "D7"c3A f3A c3f A3B | (3c2B2A2 f3A c4 B3A | 
+"G"d3B g3B d3g B3c | (3d2c2B2 g3B d4 c3B | "Am"c3e a3g "D7"f3d e3f | "G"g4 b4 g4 :|
+
+X:31
+T:The Boys of Blue Hill
+M:4/4
+L:1/16
+K:D
+d3B | "D"B3A F3A D3A F3A | "G"B3A (3B2c2d2 "A7"e4 d3e | "D"f3a a3f "A7"e3g f3e | "D"d3f e3d "G"B4 d3B | 
+"D"B3A F3A D3A F3A | "G"B3A (3B2c2d2 "A7"e4 d3e | "D"f3a a3f "A7"e3g f3e | "D"d4 f4 d4 :|
+|: f3g | "D"a3f d3f a4 g3f | "Em"e3f g3a "Bm"b4 a3g | "D"f3a a3f "A7"e3g f3e | "D"d3f e3d "G"B4 d3B | 
+"D"B3A F3A D3A F3A | "G"B3A (3B2c2d2 "A7"e4 d3e | "D"f3a a3f "A7"e3g f3e | "D"d4 f4 d4 :|
+
+%%newpage
+
+X:32
+T:The Gypsies
+M:4/4
+L:1/8
+K:Em
+e>f | "Em"g>fe>d e>dB>d | "C"e>d (3efg "G"B2 B>A | "G"G>FG>A B>AB>d | "Am"e2A2 "Bm"A2 e>f | 
+"Em"g>fe>d e>dB>d | "C"e>d (3efg "G"B2 B>A | "G"G>FG>A "Am"B>c"Bm"B>A | "Em"G2 E2 E2 ::
+e>f | "Em"g>fe>d e>Be>f | g>fe>d e2e>d | "Em"e>de>f "C"g>fg>a | "D"b2d2d2g>a | 
+"G"(3bag "D"a>f g2"Em"g>f | "C"e>d (3efg "G"B2 B>A | "G"G>FG>A "Am"B>c"Bm"B>A | "Em"G2 E2 E2 :|
+
+X:33
+T:Harvest Home
+M:4/4
+L:1/16
+K:D
+A3F | "D"D3A F3A D3A F3A | d3e f3e d3c B3A | "A7"e3A f3A g3A f3A | (3e2f2e2 (3d2c2B2 (3A2B2A2 (3G2F2E2 | 
+"D"D3A F3A D3A F3A | d3e f3e d3c B3A | "A7"e3A f3A g3e c3e | "D"d4 f4 d4 c2d2 ||
+"A7"e2A2 (3A2A2A2 f2A2 (3A2A2A2 | g4 f4 e2A2 (3A2A2A2 | e3A f3A g3A f3A | (3e2f2e2 (3d2c2B2 (3A2B2A2 (3G2F2E2 | 
+"D"D3A F3A D3A F3A | d3e f3e d3c B3A | "A7"e3A f3A g3e c3e | "D"d4 f4 d4 |]
+
+%%newpage
+
+X:34
+%%titlespace 0
+%%topspace -10
+%%titleleft
+T:Military Two Step
+T:Monster Dance
+K:
+
+X:35
+T:Cock of the North
+M:6/8
+L:1/8
+K:A
+d | "A"c2c cBA | "A"cde "D"f2e | "A"c2c cBA | "E"B3 e2d | 
+"A"c2c cBA | "A"cde "D"f2e | "A"c2c "E"BcB | "A"A3 A2 :|
+|:f/g/ | "A"a2e "D"f2e | "A"a2e "D"f2e | "A"c2c cBA | "E"B3 B2 f/g/ | 
+"A"a2e "D"f2e | "A"a2e "D"f2e | "A"c2c "E"BcB | "A"A3 A2 :|]
+
+X:36
+T:Major Mackie's Jig
+M:6/8
+L:1/8
+K:D
+FG |"D"ABc dcd | "Em"B2e e2d | "A7"c2a a^ga | "D"f2d d3 | 
+"D"ABc dcd | "Em"B2e e2d | "A7"c2a gfe | "D"d3- d :|
+|: de | "D"f2f def | "Em"g3 g2f | "A7"e2e cde | "D"f3 f2e | 
+"Bm"d2d def | "Em"g2B e2d | "A7"c2a gfe | "D"d3- d :|]
+
+X:37
+%%topspace -10
+%%musicspace -10
+T:Oyster Girl
+M:6/8
+L:1/8
+K:G
+Bc | "G"ded B2G | "D"A2F D3 | "G"GFG BGB | "D7"d2c A3 | 
+"G"ded B2g | "C"f2e c2e | "G"d2B "D7"cBA | "G"G3- G :| 
+|: dc | "G"Bcd Bcd | "C"e2c edc | "D7"ABc ABc | "G"d2B dcB | 
+"G"ded Bdg | "C"f2e c2e | "G"d2B "D7"cBA | "G"G3- G :|]
+
+%%newpage
+
+X:38
+T:New Rigged Ship
+M:6/8
+L:1/8
+K:D
+fe | "D"dcd d2 f | dcd d2 f | "A"ecA ABc | ecA ABc |
+"D"dcd d2 f | dcd d2 f | "A7"ecA ABc | "D"d3- d :|
+|: fg | "D"a2 f a2 f | ded dfa | "G"b2 g b2 g | "A7"efe efg |
+"D"a2 f a2 f | dcd d2 f | "A7"ecA ABc | "D"d3- d :|
+
+X:39
+T:Hundred Pipers
+M:6/8
+L:1/8
+K:A
+AB | "A"c2E EFE | "D"F2A A2f | "A"e2c cBA | "E7"c2B BAB |
+"A"c2E EFE | "D"F2A A2f | "A"e2c "E7"BcB | "A"A3- A :|
+|: cd | "A"e2e ece | "D"f2a a2f | "A"e2c cBA | "E7"c2B Bcd |
+"A"e2e ece | "D"f2a a2f | "A"e2c "E7"BcB | "A"A3- A :|]
+
+%%newpage
+
+X:40
+T:Irish Waltzes
+T:St Bernard's Waltz
+%%titleleft
+%%titlespace 0
+%%topspace -10
+M:6/8     %Meter
+L:1/8     %
+K:C
+
+X: 41
+T: All Those Endearing Young Charms
+R: waltz
+M: 3/4
+L: 1/8
+K: G
+BA|"G"G3 A G2|G2 B2 d2|"C"c2 e2 g2|g3 f2e|"G"d3 c B2|"D"A2 G2 A2|"G"B6-|B4 BA|
+"G"G3 A G2|G2 B2 d2|"C"c2 e2 g2|g3 fe2|"G"d2 g2 B2|"D"A3 G A2|"G"G6-|G4 dc||
+"G"B2 G2 g2|g4 dd|"C"e2 c2 g2|g3 fe2|"G"d3 c B2|"D"A3 G A2|"G"B6-|B4 BA|
+"G"G3 A G2|G2 B2 d2|"C"c2 e2 g2|g3 fe2|"G"d2 g2 B2|"D"A3 G A2|"G"G6-| G4||
+
+X: 42
+T: Planxty Irwin
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+d2|"G"g4 f2|"C"e3f g2|"G"d4 c2|"Em"B3A G2|"Am"c4 A2|"G"B3c d2|"D"F4 G2|A4 d2|
+"G"g4 f2|"C"e3f g2|"G"d4 c2|"Em"B3A G2|"Am"c4 A2|"G"B3c d2|"D"G4 F2|"G"G4 d2|
+|"G"g4 g2|g3f g2|"D"a3b a2|a3f d2|"G"b4 b2|"Am"a3b g2|"D"f3g e2|d2 e2 f2|
+"G"g4 f2|"C"e3f g2|"G"d4 c2|"Em"B3A G2|"Am"c4 A2|"G"B3c d2|"D"G4 F2| "G"G4|]
+
+%%newpage
+
+X: 43
+T: The South Wind
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|:dc|"G"B3A G2|B2c2 d2|"D"A6-|A4 dc|"G"B3A G2|E2D2 E2| "G"G6-|1G4 dc:|]2G4 Bd||
+|:"C"g4 g2|g3f e2|"G"d4 d2|d4 c2|"Em"B3A G2|1B3c d2|"D"A6-|A2 B2 d2:|2 "D" A c3 F2 |"G"  G6- | G4|]
+
+
+X: 44
+T: Planxty Fanny Power
+R: waltz
+M: 3/4
+L: 1/8
+K: Gmaj
+|:D|"G"G2D "Em"G>AB|"C"c2B "D"A2G|"C"F>GE "D"D>ED|"Bm"F2G "D"A>Bc|
+"G"B>AG "Em"B>cd|"C"e2A "D"A2G|"C"F>GE "D"D>GF|"G" G3 G2:|
+|:d|"G"dB/c/d dB/c/d|"Em"G>AG GBd|"C"ec/d/e ec/d/e|"D"A>BA ABc|
+"G"B>cd "C"e>fg|"D"f>ga d2c|"G"B>AG "D"A/B/cF|"G"G3 G2:|
+
+
+%%newpage
+
+X:45
+T:Orcadian Strip the Willow
+T:Orcadian Strip the Willow
+%%titleleft
+%%titlespace 0
+%%topspace -20
+M:6/8     %Meter
+L:1/8     %
+K:C
+
+X:46
+T:Atholl Highlanders
+M:6/8
+L:1/8
+K:A
+cd | "A"e3 ecA | ecA "E7"Bcd | "A"e3 ecA | "E7"Bcd c2B | "A"e3 ecA | ecA "E7"Bcd | "A"eae "D"fed | "E7"cdB "A"A :|
+|: cB | "A"Ace Ace | "D"Adf Adf | "A"Ace Ace | "E7"Bcd c2B | "A"Ace Ace | "D"Adf Adf | "A"eae "D"fed | "E7"cdB "A"A :|
+|: eg | "A"aee edc | "A"aee edc | "A"aee edc | "E7"Bcd c2B | "A"aee edc | "A"aee edc | "A"aee "D"fed | "E7"cdB "A"A :|
+|: AB | "A"cAc cAc | "D"dBd dBd | "A"cAc cAc | "G"B=GB BGB | "A"cAc cAc | "D"dBd d2f | "A"eae "D"fed | "E7"cdB "A"A :|
+
+X:47
+%%topspace -10
+T: The Jig Runrig
+R: jig
+M: 6/8
+L: 1/8
+K: Dmaj
+f/2e/2|"D"d2d BAA|FAA BAA|"G"Bdd "D"AAA|"Em"fee "A"efe|
+"D"d2d BAA|FAA BAA|"G"Bdd "D"Aff|"A7"edd "D"d2:|
+a/2g/2|"D"faa "A"eaa|"D"daa "A"caa|"G"Bdd "D"AAA|"Em"fee "A"eag|
+"D"faa "A"eaa|"Bm"daa "F#m"caa|"G"Bdd "D"Aff|"A"edd "D"dag|
+"D"faa "A"eaa|"D"daa "A"caa|"G"Bdd "D"AAA|"Em"fee "A"efe|
+"D"d2d BAA|FAA BAA|"G"Bdd "D"Aff|"A7"edd "D"d2|]
+
+%%newpage
+
+X:48
+T: Calliope House
+%%topspace -10
+R: jig
+M: 6/8
+L: 1/8
+K: Emaj
+B|:"E"eBB gBB|fBB gfe|"A"cff f2e|"B"fgf e2c|"E"BcB B2G|
+B2c e2f|1 "A"g2b gfe|"B"f3 f2B:|2 "A"gbg "B"fec|"E"e3 ega|
+|:"E"b3 gbb|fbb gbb|"A"a3 gag|"B"f2e c2e|"E"BcB B2G|
+B2c e2f|1 "A"g2b gfe|"B"f3 fga:|2 "A"gbg "B"fec| "E"e3 e2|]
+
+X:49
+T: Roxbrough Castle
+%%topspace -10
+M: 4/4
+L: 1/8
+K: A
+E2|"A"A2 Ac  ecAc |"D"d2 df  "A"ecAc |"D"d2 fd "A"c2 ec |"E"B2B2 "E7"BdcB |
+"A"A2 Ac  ecAc |"D"dcdf  "A"ec A2| "A"agaf  "E7"edcB |"A"c2A2A2::  
+(3(e/f/g/) | "A"aece  fece | aece  fedc |"D"d2 fd "A"c2 ec |"E"B2B2 "E7"BdcB |
+"A"A2 Ac  ecAc | "D"dcdf  "A"ec A2| "A"agaf  "E7"edcB |"A"c2A2A2:| 
+
+X:50
+%%titlespace -30
+%%musicspace -20
+T:Hommage \`a   Edmond Parizeau
+%%scale 0.65
+C:Marvel Messervier
+M:4/4
+L:1/8
+K:A
+ABcd | "A"eAAe AAeA | AAeA (3efe ed | ceAB cAeA | ceAc dedc | 
+"E"B4 BABc | (3BcB Ac efed | "A"c2 B2 ABcA | "E"E4 ABcd | 
+"A"eAAe AAeA | AAeA (3efe ed | ceAB cAeA | ceAc dedc | 
+"E"B4 BABc | e2 d2 c2 B2 | "A"Afed "E"cdBc | "A"A2 c2 (3BcB A2 ||
+[|: "D"a4 f4 | d3 A d2 fd | "A"e4 efec | A2 c2 (3BcB A2 | "E"B4 BABc | 
+e2 d2 c2 B2 |1 "A"cBAc ecef | e2 c2 (3BcB A2 :|]2 "A"Afed "E"cdBc | "A"A4|]
+
+%%newpage
+
+X: 2
+T: Auld Lang Syne
+R: march
+M: 4/4
+L: 1/8
+K: Gmaj
+"D" D2|"G" G3 G "Em" G2 B2|"Am" A3 G "D" A2 "B7" B>A|"Em" G3 G "G" B2 d2|"C" e3e3|
+"C" e2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "B7" B>A|"Em" G3 E "C" E2 "D" D2|"G" G3G3||
+"C" e2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "D7" e2|"G" d3 B "Em" B2 d2|"C" e3e3|
+"C" g2|"G" d3 B "Em" B2 G2|"Am" A3 G "D" A2 "B7" B>A|"Em" G3 "C" E E2 "D" D2|"G" G4G3||
+W:Should old acquaintance be forgot
+W:and never brought to mind?
+W:Should old acquaintance be forgot
+W:and old lang syne?
+W:
+W:For auld lang syne, my dear
+W:for auld lang syne
+W:we'll take a cup of kindness yet
+W:for auld lang syne.
+W:
+W:And surely you'll buy your pint cup
+W:and surely I'll buy mine
+W:And we'll take a cup o' kindness yet
+W:for auld lang syne.
+W:
+W:For auld lang syne, my dear
+W:for auld lang syne
+W:we'll take a cup of kindness yet
+W:for auld lang syne.
+W:
+W:We two have run about the slopes
+W:and picked the daisies fine;
+W:But we've wandered many a weary foot
+W:since auld lang syne.
+W:
+W:For auld lang syne, my dear
+W:for auld lang syne
+W:we'll take a cup of kindness yet
+W:for auld lang syne.
+W:
+W:We two have paddled in the stream
+W:from morning sun till dine
+W:But seas between us broad have roared
+W:since auld lang syne.
+W:
+W:For auld lang syne, my dear
+W:for auld lang syne
+W:we'll take a cup of kindness yet
+W:for auld lang syne.
